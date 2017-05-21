@@ -13,15 +13,15 @@ import org.apache.hadoop.util.Tool;
 import org.apache.hadoop.util.ToolRunner;
  
 /**
- * WordFrequenceInDocument Creates the index of the words in documents,
+ * WordFrequenceInDocument creates the index of the words in documents,
  * mapping each of them to their frequency.
  */
 public class TFIDFDriver extends Configured implements Tool {
  
-    // where to put the data in hdfs when we're done
+    // Folder where the output goes
     private static final String OUTPUT_PATH = "3-tf-idf";
  
-    // where to read the data from.
+    // Folder which contains the input data
     private static final String INPUT_PATH = "2-word-count";
  
     public int run(String[] args) throws Exception {
@@ -46,9 +46,6 @@ public class TFIDFDriver extends Configured implements Tool {
         FileStatus[] stat = fs.listStatus(inputPath);
  
         // Dirty hack to pass the total number of documents as the job name.
-        // The call to context.getConfiguration.get("docsInCorpus") returns null when I tried to pass
-        // Conf.set("docsInCorpus", String.valueOf(stat.length)) Or even
-        // Conf.setInt("docsInCorpus", stat.length)
         job.setJobName(String.valueOf(stat.length));
  
         return job.waitForCompletion(true) ? 0 : 1;
