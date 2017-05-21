@@ -17,10 +17,10 @@ import org.apache.hadoop.util.ToolRunner;
  */
 public class WordFrequencyDriver extends Configured implements Tool {
  
-    // Where to put the data in hdfs when we're done
+    // Folder in hdfs where the output goes
     private static final String OUTPUT_PATH = "1-word-freq";
  
-    // Where to read the data from.
+    // Folder which contains the input data
     private static final String INPUT_PATH = "input";
  
     public int run(String[] args) throws Exception {
