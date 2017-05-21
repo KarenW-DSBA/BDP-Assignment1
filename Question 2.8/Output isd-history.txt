@@ -1,0 +1,1235 @@
+Name of station : ASHEVILLE AIRPORT FIPS : US Altitude : +0661.4
+Name of station : MACON MIDDLE GA REGIONAL AP FIPS : US Altitude : +0110.3
+Name of station : CORBIN CAA AIRPORT FIPS : US Altitude : +0359.1
+Name of station : PENSACOLA SAUFLEY NAS FIPS : US Altitude : +0028.0
+Name of station : PADUCAH BARKLEY FIELD FIPS : US Altitude : +0125.9
+Name of station : MALDEN FAA AIRPORT FIPS : US Altitude : +0092.0
+Name of station : MARIANNA MUNICIPAL AP FIPS : US Altitude : +0034.4
+Name of station : AUGUSTA BUSH FIELD FIPS : US Altitude : +0045.1
+Name of station : SAVANNAH INTL AP FIPS : US Altitude : +0015.5
+Name of station : VANDALIA FAA AIRPORT FIPS : US Altitude : +0163.1
+Name of station : PENSACOLA ELLYSON FLD NAAS FIPS : US Altitude : +0039.9
+Name of station : ATDL FIPS : US Altitude : +0310.6
+Name of station : MEMO-WHITON FIELD AIRPORT FIPS : US Altitude : +0570.0
+Name of station : LONDON-CORBIN AP FIPS : US Altitude : +0369.1
+Name of station : CAIRNS FIELD FORT RUCKER FIPS : US Altitude : +0091.7
+Name of station : MAYPORT NS FIPS : US Altitude : +0004.3
+Name of station : PENSACOLA FOREST SHERMAN NAS FIPS : US Altitude : +0009.1
+Name of station : HUNTSVILLE MADISON COUNTY ARP FIPS : US Altitude : +0196.3
+Name of station : MCENTIRE ANG FIPS : US Altitude : +0076.8
+Name of station : HUNTINGTON TRI-STATE ARPT FIPS : US Altitude : +0255.4
+Name of station : MERIDIAN NAAS FIPS : US Altitude : +0096.6
+Name of station : SPRINGFIELD AF FIPS : US Altitude : +0323.1
+Name of station : TERRE HAUTE HULMAN FIELD ANG FIPS : US Altitude : +0180.7
+Name of station : GREENVILLE-SPARTANBURG INTL A FIPS : US Altitude : +0296.0
+Name of station : BECKLEY RALEIGH CO MEM AP FIPS : US Altitude : +0766.3
+Name of station : FORT BENNING MCKENNA FIPS : US Altitude : +0134.1
+Name of station : VALPARAISO FIPS : US Altitude : +0011.9
+Name of station : SMOKY HILL AF FIPS : US Altitude : +0422.1
+Name of station : TROY AF FIPS : US Altitude : +0121.0
+Name of station : CENTREVILLE WSMO FIPS : US Altitude : +0138.1
+Name of station : LONGVIEW GREGG COUNTY AP FIPS : US Altitude : +0113.7
+Name of station : COLLEGE STATION EASTERWOOD FL FIPS : US Altitude : +0100.0
+Name of station : FLIPPIN FIPS : US Altitude : +0219.2
+Name of station : SALINA (OLD) MUNI AP FIPS : US Altitude : +0390.8
+Name of station : MCCONNELL AFB FIPS : US Altitude : +0417.9
+Name of station : DALLAS-FORT WORTH INTL AP FIPS : US Altitude : +0181.7
+Name of station : WICHITA MUNICIPAL ARPT FIPS : US Altitude : +0408.4
+Name of station : RICHARDS GEBAUR AFB FIPS : US Altitude : +0332.2
+Name of station : FORT POLK AAF FIPS : US Altitude : +0100.6
+Name of station : NEW IBERIA NAAS FIPS : US Altitude : +0007.9
+Name of station : LAKE CHARLES REGIONAL ARPT FIPS : US Altitude : +0002.7
+Name of station : FT LNRD WD AAF FIPS : US Altitude : +0353.3
+Name of station : CLAIBORNE RANGE AF FIPS : US Altitude : +0057.9
+Name of station : JACKSON INTERNATIONAL AP FIPS : US Altitude : +0100.9
+Name of station : MINERAL WELLS FT WOLTERS AF FIPS : US Altitude : +0253.9
+Name of station : PALO PINTO DEMPSEY AF FIPS : US Altitude : +0359.1
+Name of station : COLUMBIA REGIONAL AIRPORT FIPS : US Altitude : +0273.7
+Name of station : KANSAS CITY INTERNATIONAL AIR FIPS : US Altitude : +0312.4
+Name of station : STEPHENVILLE CLARK FIELD FIPS : US Altitude : +0402.6
+Name of station : JOHN DAY 35 WNW FIPS : US Altitude : +0684.3
+Name of station : ARCO 17 SW FIPS : US Altitude : +1804.4
+Name of station : MURPHY 10 W FIPS : US Altitude : +1204.0
+Name of station : RILEY 10 WSW FIPS : US Altitude : +1396.9
+Name of station : ST. MARY 1 SSW FIPS : US Altitude : +1388.4
+Name of station : MOOSE 1 NNE FIPS : US Altitude : +1970.8
+Name of station : HEBER CITY MUNI ARPT-RUSS MCD FIPS : US Altitude : +1718.2
+Name of station : GRANITE PEAK DUGWAY PROVING G FIPS : US Altitude : +1310.6
+Name of station : SPOKANE 17 SSW FIPS : US Altitude : +0691.0
+Name of station : DILLON 18 WSW FIPS : US Altitude : +1820.0
+Name of station : BRIGHAM CITY 28 WNW FIPS : US Altitude : +1509.1
+Name of station : DENIO 52 WSW FIPS : US Altitude : +1981.2
+Name of station : LEWISTOWN 42 WSW FIPS : US Altitude : +1545.3
+Name of station : COOS BAY 8 SW FIPS : US Altitude : +0003.7
+Name of station : PROVO 22 E FIPS : US Altitude : +2379.9
+Name of station : REDDING 12 WNW FIPS : US Altitude : +0432.2
+Name of station : DARRINGTON 21 NNE FIPS : US Altitude : +0124.1
+Name of station : CORVALLIS 10 SSW FIPS : US Altitude : +0095.1
+Name of station : QUINAULT 4 NE FIPS : US Altitude : +0087.2
+Name of station : BINGHAMTON BROOME COUNTY ARPT FIPS : US Altitude : +0499.3
+Name of station : JOHNSTOWN CAMBRIA COUNTY AP FIPS : US Altitude : +0696.2
+Name of station : GENEVA SAMPSON AFB FIPS : US Altitude : +0187.1
+Name of station : NIAGARA FALLS FIPS : US Altitude : +1336.9
+Name of station : BELMAR ASC FIPS : US Altitude : +0025.9
+Name of station : SCHENECTADY FIPS : US Altitude : +0115.2
+Name of station : BRADFORD REGIONAL AP FIPS : US Altitude : +0655.3
+Name of station : MAYNARD FIPS : US Altitude : +0063.1
+Name of station : FITCHBURG MUNICIPAL AP FIPS : US Altitude : +0106.1
+Name of station : SCHENECTADY FIPS : US Altitude : +0067.1
+Name of station : BELMAR MONMOUTH AAF FIPS : US Altitude : +0050.0
+Name of station : GAYLORD OTSEGO COUNTY AP FIPS : US Altitude : +0404.8
+Name of station : SIOUX FALLS 14 NNE FIPS : US Altitude : +0485.9
+Name of station : GOODRIDGE 12 NNW FIPS : US Altitude : +0350.5
+Name of station : GEORGETOWN FIPS : GY Altitude : +0029.0
+Name of station : BALBOA ALBROOK FIPS : PM Altitude : +0009.1
+Name of station : COCO SOLO FIPS : PM Altitude : +0004.0
+Name of station : FORT KOBBE FIPS : PM Altitude : +0015.8
+Name of station : FORT SHERMAN FIPS : PM Altitude : +0009.1
+Name of station : WALLER BWI FIPS : TD Altitude : +0041.1
+Name of station : SAN JUAN NS FIPS : RQ Altitude : +0013.1
+Name of station : TRINIDAD BWI FIPS : TD Altitude : +0013.1
+Name of station : CHRISTIANSTED HAMILTON FIELD FIPS : VQ Altitude : +0016.8
+Name of station : ROOSEVELT ROADS FIPS : RQ Altitude : +0011.6
+Name of station : SAN JUAN CITY FIPS : RQ Altitude : +0014.9
+Name of station : PONCE SANTA ISABEL FIPS : RQ Altitude : +0009.1
+Name of station : VIEQUES ISLAND NS FIPS : RQ Altitude : +0002.1
+Name of station : CHARLOTTE AMALIE HARRY S TRUM FIPS : VQ Altitude : +0003.4
+Name of station : SAN JUAN L M MARIN INTL AP FIPS : RQ Altitude : +0002.4
+Name of station : ST LUCIA ISLAND FIPS : ST Altitude : +0099.1
+Name of station : ST JOHNS FIPS : AC Altitude : +0018.9
+Name of station : SAN ISIDRO FIPS : DR Altitude : +0035.1
+Name of station : KINGSTON FIPS : JM Altitude : +0004.9
+Name of station : MERCEDES FIPS :  Altitude : +0063.1
+Name of station : CORINTO FIPS :  Altitude : +0004.0
+Name of station : PUERTO CASTILLA FIPS : HO Altitude : +0002.1
+Name of station : SWAN ISLAND FIPS : HO Altitude : +0011.0
+Name of station : ROBERTS FIPS : CJ Altitude : +0001.8
+Name of station : GREAT EXUMA ISLAND FIPS : BF Altitude : +0018.9
+Name of station : GOLD ROCK CREEK FIPS : BF Altitude : +0006.1
+Name of station : ELEUTHERA ISLAND FIPS : BF Altitude : +0010.1
+Name of station : GRAND TURK ISLAND FIPS : TK Altitude : +0003.0
+Name of station : MAYAGUAN FIPS : BF Altitude : +0021.0
+Name of station : SAN SALVADOR FIPS : BF Altitude : +0009.1
+Name of station : MACDILL AAF FIPS : US Altitude : +0004.3
+Name of station : PINECASTLE AAF FIPS : US Altitude : +0032.3
+Name of station : HOMESTEAD AAF FIPS : US Altitude : +0002.1
+Name of station : APALACHICOLA FIPS : US Altitude : +0005.8
+Name of station : CROSS CITY AIRPORT FIPS : US Altitude : +0012.8
+Name of station : DAYTONA BEACH REGIONAL ARPT FIPS : US Altitude : +0012.5
+Name of station : FORT MYERS PAGE FIELD FIPS : US Altitude : +0005.5
+Name of station : KEY WEST INTL ARPT FIPS : US Altitude : +0006.4
+Name of station : MELBOURNE REGIONAL AP FIPS : US Altitude : +0008.2
+Name of station : MIAMI INTL AP FIPS : US Altitude : +0009.1
+Name of station : ORLANDO MUNICIPAL ARPT FIPS : US Altitude : +0034.1
+Name of station : TAMPA INTL ARPT FIPS : US Altitude : +0003.4
+Name of station : VERO BEACH MUNICIPAL ARPT FIPS : US Altitude : +0008.5
+Name of station : WEST PALM BEACH INTL ARPT FIPS : US Altitude : +0006.4
+Name of station : DAYTONA BEACH NAS FIPS : US Altitude : +0018.9
+Name of station : DELAND NAS FIPS : US Altitude : +0032.0
+Name of station : DINNER KEY NAF FIPS : US Altitude : +0004.0
+Name of station : FORT LAUDERDALE HOLLYWOOD INT FIPS : US Altitude : +0003.4
+Name of station : KEY WEST NAS FIPS : US Altitude : +0007.3
+Name of station : MELBOURNE NAS FIPS : US Altitude : +0017.1
+Name of station : MIAMI MCAS FIPS : US Altitude : +0007.9
+Name of station : RICHMOND NAS FIPS : US Altitude : +0009.1
+Name of station : SANFORD AIRPORT FIPS : US Altitude : +0016.8
+Name of station : VERO BEACH NAS FIPS : US Altitude : +0015.8
+Name of station : SAN JULIAN FIPS : CU Altitude : +0017.1
+Name of station : KEY WEST WB CITY FIPS : US Altitude : +0007.9
+Name of station : BURRWOOD WB FIPS : US Altitude : +0004.0
+Name of station : VALKARIA FIPS : US Altitude : +0009.1
+Name of station : BOOTHVILLE FIPS : US Altitude : +0000.9
+Name of station : LAREDO AFB FIPS : US Altitude : +0154.8
+Name of station : SAN MARCOS GARY AFB FIPS : US Altitude : +0178.0
+Name of station : RANDOLPH AFB FIPS : US Altitude : +0232.3
+Name of station : PORT ARTHUR JEFFERSON COUNTY FIPS : US Altitude : +0004.9
+Name of station : HOUSTON WILLIAM P HOBBY AP FIPS : US Altitude : +0014.3
+Name of station : VICTORIA FIPS : US Altitude : +0035.1
+Name of station : BEEVILLE CHASE NAAS FIPS : US Altitude : +0057.9
+Name of station : CORPUS CHRISTI NAS FIPS : US Altitude : +0005.8
+Name of station : HOUMA NAS FIPS : US Altitude : +0003.0
+Name of station : KINGSVILLE FIPS : US Altitude : +0017.7
+Name of station : NEW ORLEANS AUDUBON GOLF SITE FIPS : US Altitude : +0006.1
+Name of station : SAN ANTONIO BROOKS AFB FIPS : US Altitude : +0182.0
+Name of station : PALACIOS MUNICIPAL AP FIPS : US Altitude : +0004.6
+Name of station : CORPUS CHRISTI CABANISS NAAS FIPS : US Altitude : +0009.1
+Name of station : COTULLA FAA AP FIPS : US Altitude : +0146.0
+Name of station : MATAGORDA ISLAND AF FIPS : US Altitude : +0002.1
+Name of station : PORT ISABEL CAMERON COUNTY AP FIPS : US Altitude : +0005.8
+Name of station : NEW ORLEANS ALVIN CALLENDER F FIPS : US Altitude : +0000.3
+Name of station : HOUSTON INTERCONTINENTAL AP FIPS : US Altitude : +0032.0
+Name of station : EDINBURG 17 NNE FIPS : US Altitude : +0019.5
+Name of station : LAKE PALOURD BASE HELIPORT FIPS : US Altitude : +0001.5
+Name of station : CAMERON HELIPORT FIPS : US Altitude : +0000.9
+Name of station : GRAND ISLE SEAPLANE BASE FIPS : US Altitude : +0002.1
+Name of station : GULF OF MEXICO FIPS : US Altitude : +0032.3
+Name of station : PORT LYAUTEY FIPS : MO Altitude : +0011.9
+Name of station : EL DJEMA SAHIM FIPS : MO Altitude : 
+Name of station : BEN GUERIR FIPS : MO Altitude : +0448.1
+Name of station : ROTA NAS FIPS : US Altitude : +0027.1
+Name of station : CHILLICOTHE 22 ENE FIPS : US Altitude : +0253.9
+Name of station : BERMUDA FIPS : BD Altitude : +0003.4
+Name of station : BERMUDA FIPS : BD Altitude : +0013.1
+Name of station : WASHINGTON DC BOLLING FIELD A FIPS : US Altitude : +0018.0
+Name of station : LAURINBURG AAB FIPS : US Altitude : +0063.1
+Name of station : GOLDSBORO SEYMOUR JOHNSON AFB FIPS : US Altitude : +0033.5
+Name of station : PATUXENT RIVER NAS FIPS : US Altitude : +0012.2
+Name of station : GREENSBORO GREENSBORO-HIGH PO FIPS : US Altitude : +0270.1
+Name of station : ATLANTIC CITY MARINA FIPS : US Altitude : +0003.1
+Name of station : BALTIMORE FIPS : US Altitude : +0013.1
+Name of station : BLACKSTONE FIPS : US Altitude : +0134.1
+Name of station : DANVILLE FAA AP FIPS : US Altitude : +0179.8
+Name of station : ELKINS ELKINS-RANDOLPH CO ARP FIPS : US Altitude : +0603.2
+Name of station : FREDERICK FIPS : US Altitude : +0092.4
+Name of station : FRONT ROYAL FIPS : US Altitude : +0207.9
+Name of station : GORDONSVILLE FAA AP FIPS : US Altitude : +0135.0
+Name of station : LYNCHBURG MUNICIPAL ARPT FIPS : US Altitude : +0285.9
+Name of station : MARTINSBURG EASTERN WV REG AP FIPS : US Altitude : +0162.8
+Name of station : MILLVILLE MUNICIPAL AP FIPS : US Altitude : +0023.2
+Name of station : MORGANTOWN MUNICIPAL AP FIPS : US Altitude : +0381.9
+Name of station : NORFOLK REGIONAL ARPT FIPS : US Altitude : +0009.1
+Name of station : PETERSBURG FIPS : US Altitude : +0307.8
+Name of station : PHILADELPHIA INTERNATIONAL AP FIPS : US Altitude : +0008.5
+Name of station : RICHMOND INTL AP FIPS : US Altitude : +0049.7
+Name of station : ROANOKE WOODRUM ARPT FIPS : US Altitude : +0358.4
+Name of station : URBANNA FIPS : US Altitude : +0009.1
+Name of station : WASHINGTON D C WASHNGTN-HOOVE FIPS : US Altitude : +0019.8
+Name of station : FLORENCE CITY COUNTY AP FIPS : US Altitude : +0046.0
+Name of station : HATTERAS FIPS : US Altitude : +0003.0
+Name of station : ROCKY MOUNT FIPS : US Altitude : +0025.9
+Name of station : WARRENTON WB AP FIPS : US Altitude : +0132.0
+Name of station : WILMINGTON FIPS : US Altitude : +0011.6
+Name of station : FREDERICK AF FIPS : US Altitude : +0100.0
+Name of station : NORFOLK NAS FIPS : US Altitude : +0004.9
+Name of station : ANACOSTIA NAS FIPS : US Altitude : +0015.8
+Name of station : U.S. NAVAL ACADEMY FIPS : US Altitude : +0002.4
+Name of station : ATLANTIC CITY NAS FIPS : US Altitude : +0020.1
+Name of station : CHERRY POINT MCAS FIPS : US Altitude : +0008.8
+Name of station : CHINCOTEAGUE NAS FIPS : US Altitude : +0014.9
+Name of station : CAPE MAY NAS FIPS : US Altitude : +0004.9
+Name of station : CHARLESTON NAS FIPS : US Altitude : +0002.1
+Name of station : CREEDS NAAS FIPS : US Altitude : +0011.0
+Name of station : DAHLGREN WEAPONS LAB FIPS : US Altitude : +0006.1
+Name of station : FENTRESS NAAS FIPS : US Altitude : +0004.9
+Name of station : FRANKLIN NAAS FIPS : US Altitude : +0012.5
+Name of station : MANTEO NAAS FIPS : US Altitude : +0004.3
+Name of station : OCEANA NAS FIPS : US Altitude : +0006.7
+Name of station : PHILADELPHIA NAAS FIPS : US Altitude : +0006.1
+Name of station : QUANTICO MCAS FIPS : US Altitude : +0003.7
+Name of station : WEEKSVILLE NAF FIPS : US Altitude : +0007.0
+Name of station : WILDWOOD NAS FIPS : US Altitude : +0017.1
+Name of station : LUMBERTON MUNICIPAL AP FIPS : US Altitude : +0038.4
+Name of station : WILMINGTON DUPONT AP FIPS : US Altitude : +0024.4
+Name of station : CUSTOM HOUSE (CITY OFC) FIPS : US Altitude : +0003.1
+Name of station : ELIZABETH CITY MUNICIPAL AP FIPS : US Altitude : +0004.0
+Name of station : FORT CAMPBELL AAF FIPS : US Altitude : +0174.7
+Name of station : LOCKBOURNE FIPS : US Altitude : +0226.8
+Name of station : ALBANY NAVAL AIR STN FIPS : US Altitude : +0066.1
+Name of station : GREENVILLE DONALDSON AFB FIPS : US Altitude : +0298.1
+Name of station : COLUMBUS AAF FIPS : US Altitude : +0066.8
+Name of station : FORT BENNING LAWSON FIPS : US Altitude : +0070.7
+Name of station : DOTHAN REGIONAL AP FIPS : US Altitude : +0107.6
+Name of station : SAVANNAH CHATHAM FIELD AAF FIPS : US Altitude : +0015.8
+Name of station : TULLAHOMA AEDC SITE FIPS : US Altitude : +0328.9
+Name of station : MARIETTA DOBBINS AAF FIPS : US Altitude : +0325.5
+Name of station : MERIDIAN KEY FIELD FIPS : US Altitude : +0094.5
+Name of station : CHARLESTON KANAWHA ARPT FIPS : US Altitude : +0299.3
+Name of station : PARKERSBURG WSO FIPS : US Altitude : +0187.5
+Name of station : PULASKI FIPS : US Altitude : +0641.6
+Name of station : ALBANY MUNICIPAL AP FIPS : US Altitude : +0058.8
+Name of station : ALMA BACON COUNTY AP FIPS : US Altitude : +0062.8
+Name of station : ANNISTON CALHOUN CO AP FIPS : US Altitude : +0182.9
+Name of station : ATHENS MUNICIPAL ARPT FIPS : US Altitude : +0244.4
+Name of station : ATLANTA HARTSFIELD INTL AP FIPS : US Altitude : +0312.7
+Name of station : BIRMINGHAM MUNICIPAL AP FIPS : US Altitude : +0192.0
+Name of station : BRISTOL TRI CITY AIRPORT FIPS : US Altitude : +0464.8
+Name of station : BRUNSWICK MALCOLM MCKINNON AP FIPS : US Altitude : +0007.3
+Name of station : CHARLESTON FIPS : US Altitude : +0014.6
+Name of station : CHARLOTTE DOUGLAS MUNICIPAL A FIPS : US Altitude : +0234.4
+Name of station : CHATTANOOGA LOVELL FIELD AP FIPS : US Altitude : +0209.7
+Name of station : COLUMBIA METRO ARPT FIPS : US Altitude : +0068.6
+Name of station : CRESTVIEW BOB SIKES AP FIPS : US Altitude : +0056.4
+Name of station : EVERGREEN INTERMEDIATE FLD FIPS : US Altitude : +0078.0
+Name of station : JACKSONVILLE IMESON FIPS : US Altitude : +0009.8
+Name of station : KNOXVILLE MCGHEE TYSON AP FIPS : US Altitude : +0298.7
+Name of station : MEMPHIS MUNICIPAL ARPT FIPS : US Altitude : +0101.2
+Name of station : MOBILE REGIONAL AP FIPS : US Altitude : +0067.4
+Name of station : MONTGOMERY DANNELLY FIELD FIPS : US Altitude : +0061.6
+Name of station : MUSCLE SHOALS REGIONAL AP FIPS : US Altitude : +0171.3
+Name of station : NASHVILLE BERRY FIELD FIPS : US Altitude : +0184.4
+Name of station : PENSACOLA REGIONAL AP FIPS : US Altitude : +0036.0
+Name of station : ALTUS AAF FIPS : US Altitude : +0421.2
+Name of station : AUSTIN BERGSTROM AFB FIPS : US Altitude : +0150.9
+Name of station : BRYAN AFB FIPS : US Altitude : +0084.1
+Name of station : DALLAS HENSLEY FIELD AFB FIPS : US Altitude : +0149.0
+Name of station : ABILENE DYESS AAF FIPS : US Altitude : +0545.3
+Name of station : NEWPORT MUNICIPAL AIRPORT FIPS : US Altitude : +0072.9
+Name of station : OKLAHOMA CITY TINKER AAF FIPS : US Altitude : +0393.5
+Name of station : FORBES FIELD AAF FIPS : US Altitude : +0328.9
+Name of station : WACO JAMES CONNALLY AFB FIPS : US Altitude : +0153.0
+Name of station : WHITEMAN AAF FIPS : US Altitude : +0265.5
+Name of station : ESLER FIELD AAF FIPS : US Altitude : +0036.0
+Name of station : LAKE CHARLES WB AIRP FIPS : US Altitude : +0005.2
+Name of station : MONROE SELMAN FIELD FIPS : US Altitude : +0024.7
+Name of station : BARKSDALE AFB FIPS : US Altitude : +0050.6
+Name of station : FORT SILL POST FIELD AF FIPS : US Altitude : +0362.1
+Name of station : JACKSON 4 NW FIPS : US Altitude : +0098.1
+Name of station : SHREVEPORT REGIONAL ARPT FIPS : US Altitude : +0078.9
+Name of station : AUSTIN MUELLER MUNICIPAL AP FIPS : US Altitude : +0200.6
+Name of station : WACO RICH FIELD FIPS : US Altitude : +0154.8
+Name of station : LITTLE ROCK ADAMS FIELD FIPS : US Altitude : +0078.3
+Name of station : ARDMORE INTERMEDIATE FLD FIPS : US Altitude : +0264.0
+Name of station : WICHITA FALLS MUNICIPAL ARPT FIPS : US Altitude : +0313.9
+Name of station : OKLAHOMA CITY WILL ROGERS FIE FIPS : US Altitude : +0397.5
+Name of station : BATON ROUGE RYAN ARPT FIPS : US Altitude : +0023.2
+Name of station : HARRISON FAA AP FIPS : US Altitude : +0422.1
+Name of station : TYLER POUNDS FIELD FIPS : US Altitude : +0167.9
+Name of station : JUNCTION FIPS : US Altitude : +0533.1
+Name of station : LAFAYETTE REGIONAL AP FIPS : US Altitude : +0012.8
+Name of station : GREENWOOD MUNICIPAL AP FIPS : US Altitude : +0040.5
+Name of station : VICKSBURG OLD FIPS : US Altitude : +0036.9
+Name of station : ANTHONY FIPS : US Altitude : +0402.6
+Name of station : CHANUTE MARTIN JOHNSON AP FIPS : US Altitude : +0308.2
+Name of station : CHILLICOTHE FIPS : US Altitude : +0232.9
+Name of station : COLUMBIA MUNICIPAL AP FIPS : US Altitude : +0237.1
+Name of station : CONCORDIA BLOSSER MUNI AP FIPS : US Altitude : +0452.3
+Name of station : DODGE CITY MUNICIPAL ARPT FIPS : US Altitude : +0790.0
+Name of station : HUTCHINSON MUNICIPAL AP FIPS : US Altitude : +0470.0
+Name of station : JOPLIN MUNICIPAL AP FIPS : US Altitude : +0300.2
+Name of station : KANSAS CITY MUNICIPAL AP FIPS : US Altitude : +0228.6
+Name of station : EMPORIA MUNICIPAL AP FIPS : US Altitude : +0367.6
+Name of station : LEBO CAA AIRPORT FIPS : US Altitude : +0352.0
+Name of station : MARSHALL FIPS : US Altitude : +0240.8
+Name of station : NEW FLORENCE FIPS : US Altitude : +0269.1
+Name of station : ST JOSEPH WBO FIPS : US Altitude : +0249.3
+Name of station : ST LOUIS LAMBERT INT'L ARPT FIPS : US Altitude : +0216.4
+Name of station : SPRINGFIELD MUNICIPAL ARPT FIPS : US Altitude : +0387.1
+Name of station : TOPEKA MUNICIPAL AP FIPS : US Altitude : +0269.7
+Name of station : VICHY ROLLA NATL ARPT FIPS : US Altitude : +0346.6
+Name of station : WICHITA FIPS : US Altitude : +0387.1
+Name of station : CLINTON NAS FIPS : US Altitude : +0492.3
+Name of station : DOW AFB FIPS : US Altitude : +0052.1
+Name of station : AUGUSTA AIRPORT FIPS : US Altitude : +0109.7
+Name of station : BANGOR AIRPORT FIPS : US Altitude : +0058.5
+Name of station : CARIBOU MUNICIPAL ARPT FIPS : US Altitude : +0190.2
+Name of station : EASTPORT FIPS : US Altitude : +0028.0
+Name of station : MILLINOCKET MUNICIPAL AP FIPS : US Altitude : +0122.5
+Name of station : BRUNSWICK NAS FIPS : US Altitude : +0022.9
+Name of station : OLD TOWN FAA AIRPORT FIPS : US Altitude : +0041.1
+Name of station : LORING AFB FIPS : US Altitude : +0221.0
+Name of station : GEORGES SHOALS AFS FIPS : US Altitude : +0025.9
+Name of station : NANTUCKET SHOALS AFS FIPS : US Altitude : +0027.1
+Name of station : CUTLER FIPS : US Altitude : +0025.9
+Name of station : GROTON AAF FIPS : US Altitude : +0003.0
+Name of station : HEMPSTEAD MITCHELL FLD AFB FIPS : US Altitude : +0038.1
+Name of station : MANCHESTER MUNICIPAL AP FIPS : US Altitude : +0070.7
+Name of station : NEW YORK LAGUARDIA ARPT FIPS : US Altitude : +0009.4
+Name of station : BUFFALO BUFFALO ARPT FIPS : US Altitude : +0214.9
+Name of station : NEWARK INTERNATIONAL ARPT FIPS : US Altitude : +0009.1
+Name of station : ALBANY COUNTY AP FIPS : US Altitude : +0089.0
+Name of station : ALTOONA BLAIR CO ARPT FIPS : US Altitude : +0447.8
+Name of station : ALLENTOWN BETHLEHEM-EASTON AR FIPS : US Altitude : +0117.3
+Name of station : BINGHAMTON TRI-CITIES ARPT FIPS : US Altitude : +0253.9
+Name of station : HARTFORD BRADLEY INTL AP FIPS : US Altitude : +0054.6
+Name of station : BROOKVILLE FAA AP FIPS : US Altitude : +0427.0
+Name of station : BURLNGTN ETAN ALN AP FIPS : US Altitude : +0103.6
+Name of station : CANTON 4 SE FIPS : US Altitude : +0121.9
+Name of station : CONCORD MUNICIPAL ARPT FIPS : US Altitude : +0105.5
+Name of station : CURWENSVILLE FIPS : US Altitude : +0675.1
+Name of station : DUNKIRK CHAUTAUQUA CO AP FIPS : US Altitude : +0211.2
+Name of station : ELMIRA AIRPORT FIPS : US Altitude : +0290.8
+Name of station : FORT PLAIN WB AP FIPS : US Altitude : +0217.0
+Name of station : GLENS FALLS AP FIPS : US Altitude : +0101.5
+Name of station : HARRISBURG STATE ARPT FIPS : US Altitude : +0105.8
+Name of station : HARTFORD BRAINARD FD FIPS : US Altitude : +0005.8
+Name of station : BLUE HILL OBSERVATORY FIPS : US Altitude : +0190.5
+Name of station : TOBYHANNA FIPS : US Altitude : +0594.4
+Name of station : NANTUCKET MEMORIAL AP FIPS : US Altitude : +0014.3
+Name of station : POUGHKEEPSIE DUTCHESS CO AP FIPS : US Altitude : +0049.4
+Name of station : NEW HAVEN TWEED AIRPORT FIPS : US Altitude : +0004.0
+Name of station : PARK PLACE 1 NW WB FIPS : US Altitude : +0591.0
+Name of station : PHILIPSBURG MID-STATE ARPT FIPS : US Altitude : +0593.8
+Name of station : PITTSBURGH ALLEGHENY CO AP FIPS : US Altitude : +0388.0
+Name of station : PITTSFIELD MUNICIPAL AP FIPS : US Altitude : +0363.9
+Name of station : PORTLAND INTL JETPORT FIPS : US Altitude : +0019.2
+Name of station : PROVIDENCE T F GREEN ARPT FIPS : US Altitude : +0018.9
+Name of station : ROCHESTER MONROE CO ARPT FIPS : US Altitude : +0169.2
+Name of station : SELINSGROVE PENN VALLEY AP FIPS : US Altitude : +0137.2
+Name of station : SYRACUSE MUNICIPL AP FIPS : US Altitude : +0127.1
+Name of station : TICONDEROGA 3 NE FIPS : US Altitude : +0064.0
+Name of station : UTICA CAA AP FIPS : US Altitude : +0163.1
+Name of station : WESTFIELD BARNES MUNI AP FIPS : US Altitude : +0082.6
+Name of station : LEBANON MUNICIPAL FIPS : US Altitude : +0173.7
+Name of station : WILKES-BARRE SCRANTON AP FIPS : US Altitude : +0293.2
+Name of station : WILLIAMSPORT-LYCOMING COUNTY FIPS : US Altitude : +0160.0
+Name of station : LAKEHURST NAS FIPS : US Altitude : +0031.4
+Name of station : AYER FIPS : US Altitude : +0082.0
+Name of station : LEWISTON NAAF FIPS : US Altitude : +0082.9
+Name of station : NEW YORK FLOYD BENNE FIPS : US Altitude : +0004.9
+Name of station : QUONSET POINT NAS FIPS : US Altitude : +0009.1
+Name of station : SQUANTUM NAS FIPS : US Altitude : +0004.9
+Name of station : SOUTH WEYMOUTH NAS FIPS : US Altitude : +0049.4
+Name of station : TRENTON MERCER COUNTY AP FIPS : US Altitude : +0064.9
+Name of station : WILLOW GROVE NAS FIPS : US Altitude : +0110.3
+Name of station : BEAR MOUNTAIN WB FIPS : US Altitude : +0396.8
+Name of station : BLOCK ISLAND FIPS : US Altitude : +0013.1
+Name of station : MOUNT CLEMENS SELFRIDGE FLD FIPS : US Altitude : +0176.8
+Name of station : OSCODA WURTSMITH AAF FIPS : US Altitude : +0193.2
+Name of station : PARK RIDGE AF FIPS : US Altitude : +0203.0
+Name of station : MERCER WB AP FIPS : US Altitude : +0394.1
+Name of station : AKRON FULTON INTERNATIONAL AP FIPS : US Altitude : +0335.6
+Name of station : ALPENA WASTEWATER PL FIPS : US Altitude : +0179.8
+Name of station : BATTLE CREEK KELLOGG AP FIPS : US Altitude : +0286.2
+Name of station : BRADFORD FIPS : US Altitude : +0242.0
+Name of station : CADILLAC WEXFORD CO AP FIPS : US Altitude : +0398.4
+Name of station : CHICAGO MIDWAY AP FIPS : US Altitude : +0188.4
+Name of station : CLEVELAND HOPKINS INTL AP FIPS : US Altitude : +0245.4
+Name of station : COLUMBUS MUNICIPAL ARPT FIPS : US Altitude : +0248.7
+Name of station : DETROIT CITY AIRPORT FIPS : US Altitude : +0190.8
+Name of station : EAST LIVERPOOL WB AP FIPS : US Altitude : +0355.1
+Name of station : FINDLAY AIRPORT FIPS : US Altitude : +0247.5
+Name of station : FLINT BISHOP ARPT FIPS : US Altitude : +0233.5
+Name of station : FORT WAYNE CITY FIPS : US Altitude : +0252.4
+Name of station : GLADWIN FIPS : US Altitude : +0236.2
+Name of station : GOSHEN MUNICIPAL AP FIPS : US Altitude : +0252.1
+Name of station : GRAND RAPIDS FIPS : US Altitude : +0213.1
+Name of station : GREEN BAY FIPS : US Altitude : +0182.0
+Name of station : JACKSON REYNOLDS FIELD FIPS : US Altitude : +0310.9
+Name of station : JOLIET FIPS : US Altitude : +0177.1
+Name of station : WEST LAFAYETTE PURDUE UNIV AP FIPS : US Altitude : +0194.2
+Name of station : LANSING CAPITAL CITY ARPT FIPS : US Altitude : +0266.4
+Name of station : MADISON TRUAX FIELD FIPS : US Altitude : +0264.0
+Name of station : MARQUETTE WBO FIPS : US Altitude : +0206.3
+Name of station : MILWAUKEE NB SIDE PO FIPS : US Altitude : +0211.2
+Name of station : MUSKEGON COUNTY ARPT FIPS : US Altitude : +0192.9
+Name of station : PELLSTON EMMET COUNTY AP FIPS : US Altitude : +0217.9
+Name of station : PEORIA GREATER PEORIA AP FIPS : US Altitude : +0201.8
+Name of station : PERRY CAA AP FIPS : US Altitude : +0210.9
+Name of station : ROCKFORD CAA AIRPORT FIPS : US Altitude : +0225.9
+Name of station : SAGINAW TRI CITY INTL AP FIPS : US Altitude : +0204.2
+Name of station : SOUTH BEND ST JOSEPH CO ARPT FIPS : US Altitude : +0235.6
+Name of station : TOLEDO WBAS FIPS : US Altitude : +0193.9
+Name of station : TRAVERSE CITY CHERRY CAPITAL FIPS : US Altitude : +0192.0
+Name of station : MARQUETTE K I SAWYER AP FIPS : US Altitude : +0360.0
+Name of station : YOUNGSTOWN MUNICIPAL ARPT FIPS : US Altitude : +0361.5
+Name of station : DETROIT WILLOW RUN AP FIPS : US Altitude : +0218.2
+Name of station : NAVAL AIR STATION FIPS : US Altitude : +0196.9
+Name of station : GROSSE ILE NAS FIPS : US Altitude : +0180.1
+Name of station : TRAVERSE CITY FIPS : US Altitude : +0189.9
+Name of station : HANCOCK HOUGHTON CO AP FIPS : US Altitude : +0328.9
+Name of station : GRAND MARAIS 2 E FIPS : US Altitude : +0190.2
+Name of station : ERIE INTERNATIONAL AP FIPS : US Altitude : +0224.6
+Name of station : MANSFIELD LAHM AP FIPS : US Altitude : +0399.9
+Name of station : WHEELING OHIO COUNTY AP FIPS : US Altitude : +0364.2
+Name of station : AKRON AKRON-CANTON AIRPORT FIPS : US Altitude : +0376.7
+Name of station : AKRON NAS FIPS : US Altitude : +0323.1
+Name of station : WAUSAU MUNICIPAL ARPT FIPS : US Altitude : +0364.5
+Name of station : GREEN BAY AUSTIN STRAUBEL FIE FIPS : US Altitude : +0214.0
+Name of station : LINCOLN AFB FIPS : US Altitude : +0356.0
+Name of station : ALEXANDRIA MUNICIPAL AP FIPS : US Altitude : +0436.2
+Name of station : DULUTH WILLIAMSN-JOHNSN MUNI FIPS : US Altitude : +0431.9
+Name of station : FARGO HECTOR ARPT FIPS : US Altitude : +0274.0
+Name of station : GRAND FORKS INTERNATIONAL AP FIPS : US Altitude : +0253.6
+Name of station : INTERNATIONAL FALLS INTL AP FIPS : US Altitude : +0360.6
+Name of station : JAMESTOWN MUNICIPAL ARPT FIPS : US Altitude : +0455.4
+Name of station : LA CROSSE MUNI AP FIPS : US Altitude : +0199.9
+Name of station : LONE ROCK FAA AP FIPS : US Altitude : +0219.8
+Name of station : MINNEAPOLIS-ST PAUL WOLD-CHAM FIPS : US Altitude : +0255.4
+Name of station : MOLINE QUAD CITY ARPT FIPS : US Altitude : +0181.1
+Name of station : PEMBINA FIPS : US Altitude : +0240.8
+Name of station : ROCHESTER MUNICIPAL ARPT FIPS : US Altitude : +0402.3
+Name of station : ST CLOUD MUNICIPAL ARPT FIPS : US Altitude : +0312.1
+Name of station : ST PAUL DOWNTOWN AP FIPS : US Altitude : +0216.7
+Name of station : WLMR MUNI-J L RICE FD ARPT FIPS : US Altitude : +0344.1
+Name of station : ABERDEEN MUNICIPAL ARPT FIPS : US Altitude : +0396.2
+Name of station : BURLINGTON MUNICIPAL AP FIPS : US Altitude : +0214.0
+Name of station : DES MOINES MUNICIPAL ARPT FIPS : US Altitude : +0293.5
+Name of station : DUBUQUE WB CITY FIPS : US Altitude : +0207.0
+Name of station : GRAND ISLAND ARPT FIPS : US Altitude : +0565.7
+Name of station : HURON MUNICIPAL ARPT FIPS : US Altitude : +0392.9
+Name of station : IOWA CITY MUNICIPAL AP FIPS : US Altitude : +0203.6
+Name of station : KIRKSVILLE CANNON MEMORIAL AP FIPS : US Altitude : +0294.1
+Name of station : LINCOLN AIR BASE FIPS : US Altitude : +0362.4
+Name of station : MASON CITY MUNICIPAL ARPT FIPS : US Altitude : +0373.4
+Name of station : NORFOLK KARL STEFAN MEM ARPT FIPS : US Altitude : +0472.7
+Name of station : OMAHA EPPLEY AIRFIELD FIPS : US Altitude : +0299.3
+Name of station : SIOUX CITY MUNICIPAL ARPT FIPS : US Altitude : +0336.2
+Name of station : SIOUX FALLS FOSS FLD FIPS : US Altitude : +0434.9
+Name of station : TARKIO FIPS : US Altitude : +0317.0
+Name of station : MINNEAPOLIS NAS FIPS : US Altitude : +0255.1
+Name of station : OTTUMWA NAS FIPS : US Altitude : +0257.9
+Name of station : OTTUMWA INDUSTRIAL AP FIPS : US Altitude : +0257.6
+Name of station : EAU CLAIRE MUNICIPAL AP FIPS : US Altitude : +0272.8
+Name of station : LAMONI FAA AIRPORT FIPS : US Altitude : +0356.0
+Name of station : LEXINGTON FIPS : US Altitude : +0735.5
+Name of station : GRANTSBURG FIPS : US Altitude : +0274.9
+Name of station : CHELVESTON FIPS : UK Altitude : +0092.0
+Name of station : WARRINGTON FIPS : UK Altitude : +0027.1
+Name of station : HUNTINGTON FIPS : UK Altitude : +0049.1
+Name of station : GREENHAM FIPS : UK Altitude : +0125.0
+Name of station : BRUNTINGTHORPE FIPS : UK Altitude : +0150.9
+Name of station : SAGLEK FIPS : CA Altitude : +0018.0
+Name of station : KEFLAVIK FIPS : IC Altitude : +0050.0
+Name of station : SIMIUTAK FIPS : GL Altitude : +0061.9
+Name of station : CAMP TUTO SITE 2 FIPS : GL Altitude : +0124.1
+Name of station : THULE OP SITE FIPS : GL Altitude : +0077.1
+Name of station : CAMP TUTO ICECAP STA FIPS : GL Altitude : +0488.0
+Name of station : CAMP TUTO ICECAP ST FIPS : GL Altitude : +0579.1
+Name of station : CAMP TUTO ICECAP STA FIPS : GL Altitude : +0750.1
+Name of station : CAMP CENTURY FIPS : GL Altitude : +0305.1
+Name of station : CAMP TUTO EAST ASC S FIPS : GL Altitude : +0701.0
+Name of station : HILO NAS FIPS : US Altitude : +0011.9
+Name of station : HILO INTERNATIONAL AP FIPS : US Altitude : +0011.0
+Name of station : MAUNA LOA 5 NNE FIPS : US Altitude : +3407.4
+Name of station : HILO 5 S FIPS : US Altitude : +0189.6
+Name of station : JOHNSTON ISLAND FIPS : PN Altitude : +0004.9
+Name of station : JOHNSTON IS WSO AP FIPS : PN Altitude : +0005.2
+Name of station : DEL RIO LAUGHLIN AAF FIPS : US Altitude : +0329.5
+Name of station : PANTHER JUNCTION 2 N FIPS : US Altitude : +1065.0
+Name of station : BARKING SANDS FIPS : US Altitude : +0003.7
+Name of station : WHEELER AFB 810.1 FIPS : US Altitude : +0255.1
+Name of station : BARBERS POINT FIPS : US Altitude : +0015.2
+Name of station : EWA MCAS FIPS : US Altitude : +0020.1
+Name of station : PEARL HARBOR NAS FIPS : US Altitude : +0010.1
+Name of station : KANEOHE BAY MCAS FIPS : US Altitude : +0005.5
+Name of station : PUUNENE CAA AP FIPS : US Altitude : +0039.9
+Name of station : PORT ALLEN CAA AP FIPS : US Altitude : +0009.1
+Name of station : LIHUE AIRPORT FIPS : US Altitude : +0045.1
+Name of station : FRNCH FRIGAT SHS NAS FIPS : US Altitude : +0002.1
+Name of station : MIDWAY ISLAND FIPS : US Altitude : +0006.1
+Name of station : DENVER LOWRY AFB FIPS : US Altitude : +1645.0
+Name of station : SAN ANGELO GOODFELLOW AFB FIPS : US Altitude : +0573.0
+Name of station : BIGGS AFB FIPS : US Altitude : +1196.0
+Name of station : AURORA BUCKLEY FIELD ANGB FIPS : US Altitude : +1725.8
+Name of station : LUBBOCK WEST TEXAS AIR TERMIN FIPS : US Altitude : +0987.9
+Name of station : ROSWELL MUNI AP FIPS : US Altitude : +1106.1
+Name of station : EL PASO MUNICIPAL ARPT FIPS : US Altitude : +1193.6
+Name of station : TUCUMCARI FAA AP FIPS : US Altitude : +1231.1
+Name of station : ALBUQUERQUE MUNICIPAL ARPT FIPS : US Altitude : +1619.7
+Name of station : CLAYTON MUNICIPAL AIRPARK FIPS : US Altitude : +1515.5
+Name of station : RATON MUNICIPAL CREWS FIELD A FIPS : US Altitude : +1935.2
+Name of station : PAMPA FIPS : US Altitude : +0985.1
+Name of station : GUADALUPE PASS FIPS : US Altitude : +1663.0
+Name of station : OTTO FAA AP FIPS : US Altitude : +1900.1
+Name of station : ACOMITA FAA AP FIPS : US Altitude : +2007.1
+Name of station : COLUMBUS FIPS : US Altitude : +1239.0
+Name of station : SALT FLAT FIPS : US Altitude : +1132.9
+Name of station : EL MORRO CAA AP FIPS : US Altitude : +2171.1
+Name of station : ALAMOSA ARPT FIPS : US Altitude : +2298.5
+Name of station : DENVER STAPLETON AIRFIELD FIPS : US Altitude : +1626.1
+Name of station : EAGLE COUNTY AP FIPS : US Altitude : +1991.9
+Name of station : GOODLAND RENNER FIELD FIPS : US Altitude : +1124.1
+Name of station : GRAND JUNCTION WALKER FIELD FIPS : US Altitude : +1474.9
+Name of station : LA JUNTA MUNICIPAL AP FIPS : US Altitude : +1284.7
+Name of station : PUEBLO WB AIRPORT FIPS : US Altitude : +1464.9
+Name of station : TRINIDAD LAS ANIMAS COUNTY AP FIPS : US Altitude : +1750.5
+Name of station : CLARENDON MUNICIPAL AP FIPS : US Altitude : +0875.1
+Name of station : FARMINGTON MUNICIPAL AP FIPS : US Altitude : +1677.0
+Name of station : DAVIS MONTHAN AFB FIPS : US Altitude : +0824.2
+Name of station : LEMOORE REEVES NAS FIPS : US Altitude : +0071.3
+Name of station : STEAD AFB FIPS : US Altitude : +1531.9
+Name of station : NORTON AAF FIPS : US Altitude : +0335.0
+Name of station : GEORGE AFB FIPS : US Altitude : +0879.3
+Name of station : OXNARD AAF FIPS : US Altitude : +0019.8
+Name of station : INDIAN SPRINGS FIPS : US Altitude : +0951.9
+Name of station : HOLLYWOOD BURBANK ARPT FIPS : US Altitude : +0223.1
+Name of station : TONOPAH AIRPORT FIPS : US Altitude : +1656.3
+Name of station : ELY YELLAND FIELD FIPS : US Altitude : +1908.7
+Name of station : BAKERSFIELD KERN COUNTY ARPT FIPS : US Altitude : +0150.0
+Name of station : BEAUMONT 1 E FIPS : US Altitude : +0794.0
+Name of station : BISHOP AIRPORT FIPS : US Altitude : +1263.4
+Name of station : BLYTHE RIVERSIDE CO FIPS : US Altitude : +0119.5
+Name of station : BRYCE CNYN FAA AP FIPS : US Altitude : +2313.1
+Name of station : TUCSON INTERNATIONAL AP FIPS : US Altitude : +0778.8
+Name of station : DAGGETT BARSTOW-DAGGETT AP FIPS : US Altitude : +0588.0
+Name of station : DELTA FAA AP FIPS : US Altitude : +1449.3
+Name of station : FRESNO CHANDLER FIELD FIPS : US Altitude : +0084.1
+Name of station : LAS VEGAS MCCARRAN INTL AP FIPS : US Altitude : +0664.5
+Name of station : HANKSVILLE FIPS : US Altitude : +1354.5
+Name of station : INDIO COACHELLA FIPS : US Altitude : -0020.1
+Name of station : LAS VEGAS WB AP FIPS : US Altitude : +0573.9
+Name of station : LOS ANGELES MUNICIPAL ARPT FIPS : US Altitude : +0099.4
+Name of station : MILFORD MUNICIPAL AP FIPS : US Altitude : +1534.1
+Name of station : MODENA FIPS : US Altitude : +1663.9
+Name of station : MOUNT LAGUNA CAA AP FIPS : US Altitude : +1893.1
+Name of station : NEEDLES AIRPORT FIPS : US Altitude : +0278.6
+Name of station : NEWHALL AP FIPS : US Altitude : +0370.0
+Name of station : OCEANSIDE CAA AP FIPS : US Altitude : +0007.9
+Name of station : PALMDALE AIRPORT FIPS : US Altitude : +0787.0
+Name of station : PHOENIX SKY HARBOR INTL AP FIPS : US Altitude : +0337.4
+Name of station : PRESCOTT MUNICIPAL AP FIPS : US Altitude : +1539.8
+Name of station : RENO WBO FIPS : US Altitude : +1341.1
+Name of station : SANDBERG FIPS : US Altitude : +1378.6
+Name of station : SAN DIEGO LINDBERGH FIELD FIPS : US Altitude : +0008.5
+Name of station : SANTA BARBARA MUNICIPAL AP FIPS : US Altitude : +0006.1
+Name of station : SANTA CATALINA BUFFALO SPRING FIPS : US Altitude : +0488.3
+Name of station : SILVER LAKE CAA AP FIPS : US Altitude : +0281.0
+Name of station : TUCSON WBO FIPS : US Altitude : +0780.0
+Name of station : WINSLOW MUNICIPAL AP FIPS : US Altitude : +1488.3
+Name of station : YUMA INTL ARPT FIPS : US Altitude : +0065.8
+Name of station : CHULA VISTA BROWN FIELD NAAS FIPS : US Altitude : +0159.4
+Name of station : EL CENTRO NAF FIPS : US Altitude : -0013.1
+Name of station : TRAVIS FIELD AAB FIPS : US Altitude : +0018.9
+Name of station : BLUE CANYON AP FIPS : US Altitude : +1610.3
+Name of station : DONNER SUMMIT FIPS : US Altitude : +2194.0
+Name of station : OAKLAND METROPOLITAN FIPS : US Altitude : +0026.8
+Name of station : SACRAMENTO EXECUTIVE ARPT FIPS : US Altitude : +0007.6
+Name of station : SALINAS MUNICIPAL AP FIPS : US Altitude : +0023.5
+Name of station : SAN FRANCISCO INTL AP FIPS : US Altitude : +0005.5
+Name of station : SANTA MARIA HANCOCK FIELD FIPS : US Altitude : +0071.0
+Name of station : STOCKTON METROPOLITAN ARPT FIPS : US Altitude : +0008.2
+Name of station : WILLIAMS CAA AIRPORT FIPS : US Altitude : +0039.0
+Name of station : NAVAL AIR STATION FIPS : US Altitude : +0004.3
+Name of station : LIVERMORE NAS FIPS : US Altitude : +0196.9
+Name of station : MOUNTAIN VIEW MOFFETT FLD NAS FIPS : US Altitude : +0010.4
+Name of station : MONTEREY NAF FIPS : US Altitude : +0050.0
+Name of station : SANTA ROSA NAAS FIPS : US Altitude : +0042.1
+Name of station : FARALLON ISLAND NAS FIPS : US Altitude : +0009.1
+Name of station : CONCORD CONCORD-BUCHANAN FIEL FIPS : US Altitude : +0018.3
+Name of station : DOWNTOWN FIPS : US Altitude : +0011.6
+Name of station : DOWNTOWN FIPS : US Altitude : +0045.7
+Name of station : SANTA MARIA PUBLIC ARPT FIPS : US Altitude : +0072.5
+Name of station : UKIAH MUNICIPAL AP FIPS : US Altitude : +0190.8
+Name of station : SAN JOSE MUNICIPAL AP FIPS : US Altitude : +0015.2
+Name of station : TROY 2 W FIPS : US Altitude : +0143.9
+Name of station : THOMASVILLE 2 S FIPS : US Altitude : +0106.7
+Name of station : HOLLY SPRINGS 4 N FIPS : US Altitude : +0147.5
+Name of station : BATESVILLE 8 WNW FIPS : US Altitude : +0138.7
+Name of station : PORT ARANSAS 32 NNE FIPS : US Altitude : +0004.6
+Name of station : AUSTIN 33 NW FIPS : US Altitude : +0414.8
+Name of station : JOPLIN 24 N FIPS : US Altitude : +0290.2
+Name of station : SALEM 10 W FIPS : US Altitude : +0365.2
+Name of station : BISMARCK MUNICIPAL ARPT FIPS : US Altitude : +0506.0
+Name of station : DICKINSON MUNICIPAL AP FIPS : US Altitude : +0787.3
+Name of station : MINOT FAA AP FIPS : US Altitude : +0522.4
+Name of station : WILLISTON FIPS : US Altitude : +0577.9
+Name of station : AKRON WASHINGTON CO AP FIPS : US Altitude : +1408.5
+Name of station : CASPER FIPS : US Altitude : +1613.0
+Name of station : CHADRON MUNICIPAL AP FIPS : US Altitude : +1004.6
+Name of station : CHEYENNE MUNICIPAL ARPT FIPS : US Altitude : +1871.5
+Name of station : DOUGLAS FIPS : US Altitude : +1466.1
+Name of station : HAYES CENTER FIPS : US Altitude : +0926.9
+Name of station : LANDER HUNT FIELD FIPS : US Altitude : +1694.1
+Name of station : LARAMIE GENERAL BREES FIELD FIPS : US Altitude : +2216.5
+Name of station : NORTH PLATTE LEE BIRD FIELD FIPS : US Altitude : +0849.5
+Name of station : PHILIP 1 S FIPS : US Altitude : +0674.2
+Name of station : PIERRE REGIONAL AP FIPS : US Altitude : +0526.1
+Name of station : RAPID CITY FIPS : US Altitude : +0981.2
+Name of station : ROCK SPRINGS ARPT FIPS : US Altitude : +2055.9
+Name of station : SCOTTSBLUFF W B HEILIG FIEL FIPS : US Altitude : +1206.4
+Name of station : SHERIDAN COUNTY ARPT FIPS : US Altitude : +1209.4
+Name of station : SIDNEY MUNICIPAL AP FIPS : US Altitude : +1312.5
+Name of station : SINCLAIR CAA AP FIPS : US Altitude : +2000.1
+Name of station : BILLINGS MUNICIPAL ARPT FIPS : US Altitude : +1088.1
+Name of station : GLASGOW # 2 FIPS : US Altitude : +0637.0
+Name of station : HAVRE FIPS : US Altitude : +0759.9
+Name of station : LEWISTOWN MUNICIPAL ARPT FIPS : US Altitude : +1263.7
+Name of station : MILES CITY MUNICIPAL ARPT FIPS : US Altitude : +0802.8
+Name of station : CUSTER FIPS : US Altitude : +0836.1
+Name of station : RAWLINS MUNICIPAL AP FIPS : US Altitude : +2055.3
+Name of station : MOORCROFT 3 S FIPS : US Altitude : +1318.3
+Name of station : CASPER NATRONA CO INTL AP FIPS : US Altitude : +1612.4
+Name of station : RAPID CITY REGIONAL ARPT FIPS : US Altitude : +0965.6
+Name of station : IMPERIAL FAA AP FIPS : US Altitude : +0997.6
+Name of station : OGDEN HILL AAF FIPS : US Altitude : +1459.7
+Name of station : FORT BRIDGER AP FIPS : US Altitude : +2140.9
+Name of station : BATTLE MOUNTAIN LANDER COUNTY FIPS : US Altitude : +1381.4
+Name of station : COALVILLE SAWRS FIPS : US Altitude : +1763.0
+Name of station : ELKO MUNICIPAL ARPT FIPS : US Altitude : +1546.6
+Name of station : FAIRFIELD CAA AP FIPS : US Altitude : +1513.9
+Name of station : LUCIN FIPS : US Altitude : +1362.2
+Name of station : OGDEN AIRPORT FIPS : US Altitude : +1353.0
+Name of station : WINNEMUCCA MUNICIPAL ARPT FIPS : US Altitude : +1314.9
+Name of station : WINNEMUCCA WB CITY FIPS : US Altitude : +1309.1
+Name of station : BAKER MUNICIPAL AP FIPS : US Altitude : +1028.1
+Name of station : BOISE AIR TERMINAL FIPS : US Altitude : +0874.2
+Name of station : BOZEMAN GALLATIN FIELD FIPS : US Altitude : +1356.1
+Name of station : BURLEY MUNICIPAL ARPT FIPS : US Altitude : +1267.1
+Name of station : BURNS FEDERAL BLDG FIPS : US Altitude : +1262.2
+Name of station : BUTTE SILVER BOW CO ARPT FIPS : US Altitude : +1686.5
+Name of station : CUT BANK MUNI AP FIPS : US Altitude : +1169.8
+Name of station : DILLON FIPS : US Altitude : +1591.7
+Name of station : DRUMMOND AVIATION FIPS : US Altitude : +1219.2
+Name of station : DUBOIS FAA AIRPORT FIPS : US Altitude : +1563.9
+Name of station : EPHRATA AP FCWOS FIPS : US Altitude : +0383.7
+Name of station : GOODING 2 S FIPS : US Altitude : +1088.1
+Name of station : GREAT FALLS INTL ARPT FIPS : US Altitude : +1114.7
+Name of station : HELENA ARPT FIPS : US Altitude : +1179.0
+Name of station : IDAHO FALLS FANNING FIELD FIPS : US Altitude : +1446.0
+Name of station : KALISPELL GLACIER PK INT'L AR FIPS : US Altitude : +0906.2
+Name of station : LA CROSSE FIPS : US Altitude : +0452.0
+Name of station : LA GRANDE MUNI AP FIPS : US Altitude : +0828.1
+Name of station : LEWISTON NEZ PERCE COUNTY ARP FIPS : US Altitude : +0437.7
+Name of station : LIVINGSTON MISSION FIELD FIPS : US Altitude : +1407.6
+Name of station : MALAD CITY AIRPORT FIPS : US Altitude : +1372.5
+Name of station : MEACHUM EMERGENCY AP FIPS : US Altitude : +1135.7
+Name of station : MISSOULA JOHNSON-BELL FLD FIPS : US Altitude : +0972.0
+Name of station : MULLAN PASS VOR/DME FIPS : US Altitude : +1851.4
+Name of station : PENDLETON MUNICIPAL ARPT FIPS : US Altitude : +0461.5
+Name of station : POCATELLO MUNICIPAL ARPT FIPS : US Altitude : +1364.9
+Name of station : SPOKANE FIPS : US Altitude : +0720.9
+Name of station : STREVELL FIPS : US Altitude : +1609.3
+Name of station : SUPERIOR FIPS : US Altitude : +0826.0
+Name of station : WALLA WALLA MUNICIPAL AP FIPS : US Altitude : +0367.3
+Name of station : WHITEHALL FIPS : US Altitude : +1303.9
+Name of station : ONTARIO AIRPORT FIPS : US Altitude : +0668.4
+Name of station : PASCO NAS FIPS : US Altitude : +0122.5
+Name of station : LOVELOCK DERBY FIELD FIPS : US Altitude : +1189.9
+Name of station : WENDOVER USAF AUXILIARY FIELD FIPS : US Altitude : +1290.8
+Name of station : TACOMA MCCHORD AAF FIPS : US Altitude : +0098.5
+Name of station : BURNEY FIPS : US Altitude : +0962.6
+Name of station : MOUNT SHASTA FIPS : US Altitude : +1077.5
+Name of station : RED BLUFF MUNICIPAL ARPT FIPS : US Altitude : +0107.6
+Name of station : THE DALLES MUNICIPAL ARPT FIPS : US Altitude : +0064.0
+Name of station : ELLENSBURG BOWERS FI FIPS : US Altitude : +0538.0
+Name of station : EUGENE MAHLON SWEET ARPT FIPS : US Altitude : +0113.7
+Name of station : KELSO WB AP FIPS : US Altitude : +0006.1
+Name of station : KLAMATH FALLS KINGSLEY FIELD FIPS : US Altitude : +1244.8
+Name of station : MEDFORD JACKSON COUNTY ARPT FIPS : US Altitude : +0405.1
+Name of station : NORTH HEAD FIPS : US Altitude : +0064.0
+Name of station : OLYMPIA MUNICIPAL ARPT FIPS : US Altitude : +0061.0
+Name of station : PORT ANGELES WB AP FIPS : US Altitude : +0006.1
+Name of station : PORTLAND FIPS : US Altitude : +0032.6
+Name of station : REDMOND ROBERTS FIELD FIPS : US Altitude : +0940.0
+Name of station : ROSEBURG MUNICIPAL AP FIPS : US Altitude : +0155.1
+Name of station : SALEM MCNARY FIELD FIPS : US Altitude : +0061.3
+Name of station : SEATTLE SEATTLE-TACOMA ARPT FIPS : US Altitude : +0132.3
+Name of station : SEATTLE BOEING FIELD FIPS : US Altitude : +0009.1
+Name of station : SEXTON SUMMIT FIPS : US Altitude : +1170.7
+Name of station : SISKIYOU SUMMIT FIPS : US Altitude : +1367.0
+Name of station : STAMPEDE PASS FIPS : US Altitude : +1209.1
+Name of station : STEVENSON FIPS : US Altitude : +0096.9
+Name of station : TATOOSH ISLAND FIPS : US Altitude : +0025.9
+Name of station : TOLEDO WINLOCK MUNI AP FIPS : US Altitude : +0114.3
+Name of station : YAKIMA AIR TERMINAL FIPS : US Altitude : +0324.9
+Name of station : SEATTLE NAS FIPS : US Altitude : +0014.9
+Name of station : ASTORIA NAS FIPS : US Altitude : +0004.0
+Name of station : CORVALLIS NAAS FIPS : US Altitude : +0075.0
+Name of station : KLAMATH FALLS NAS FIPS : US Altitude : +1247.9
+Name of station : LAKEVIEW NSA FIPS : US Altitude : +1444.1
+Name of station : NORTH BEND NAAF FIPS : US Altitude : +0015.8
+Name of station : QUILLAYUTE NAAS FIPS : US Altitude : +0061.9
+Name of station : SHELTON NAAS FIPS : US Altitude : +0091.1
+Name of station : TILLAMOOK NAS FIPS : US Altitude : +0011.9
+Name of station : WHIDBEY ISLAND NAS FIPS : US Altitude : +0014.3
+Name of station : MONTAGUE SISKIYOU COUNTY AP FIPS : US Altitude : +0805.0
+Name of station : HOQUIAM FIPS : US Altitude : +0004.9
+Name of station : ARCATA AIRPORT FIPS : US Altitude : +0064.0
+Name of station : NORTH BEND MUNI AIRPORT FIPS : US Altitude : +0005.2
+Name of station : NEWPORT MUNICIPAL AP FIPS : US Altitude : +0048.8
+Name of station : CRESCENT CITY FAA AI FIPS : US Altitude : +0016.8
+Name of station : HOLBERG FIPS : CA Altitude : +0569.1
+Name of station : JUNEAU MUNICIPAL ARPT FIPS : US Altitude : +0007.3
+Name of station : ANGOON FIPS : US Altitude : +0000.0
+Name of station : CAPE DECISION FIPS : US Altitude : +0014.9
+Name of station : CAPE SPENCER FIPS : US Altitude : +0027.1
+Name of station : CRAIG FIPS : US Altitude : +0004.0
+Name of station : GUSTAVUS FIPS : US Altitude : +0009.1
+Name of station : HAINES FIPS : US Altitude : +0004.9
+Name of station : KETCHIKAN TONGASS FIPS : US Altitude : +0029.3
+Name of station : PETERSBURG FIPS : US Altitude : +0032.6
+Name of station : SITKA JAPONSKI AP FIPS : US Altitude : +0020.4
+Name of station : YAKUTAT STATE AP FIPS : US Altitude : +0009.4
+Name of station : CAPE SAINT JAMES  & FIPS : CA Altitude : 
+Name of station : LANGARA FIPS : CA Altitude : +0041.1
+Name of station : SITKA 1 NE FIPS : US Altitude : +0023.8
+Name of station : GUSTAVUS 2 NE FIPS : US Altitude : +0006.1
+Name of station : METLAKATLA 6 S FIPS : US Altitude : +0032.0
+Name of station : MIDDLETON ISLAND AUT FIPS : US Altitude : +0036.9
+Name of station : ILIAMNA ARPT FIPS : US Altitude : +0048.8
+Name of station : HOMER MUNICIPAL ARPT FIPS : US Altitude : +0022.3
+Name of station : DRIFTWOOD BAY FIPS : US Altitude : +0395.9
+Name of station : KING SALMON 42 SE FIPS : US Altitude : +0201.5
+Name of station : COLD BAY ARPT FIPS : US Altitude : +0031.4
+Name of station : SAND POINT 1 ENE FIPS : US Altitude : +0073.2
+Name of station : ADAK DAVIS AFB FIPS : US Altitude : +0004.9
+Name of station : ASI TANAGA ISLAND NS FIPS : US Altitude : +0045.1
+Name of station : ST. PAUL 4 NE FIPS : US Altitude : +0006.1
+Name of station : CAPE YOUNG PIN 2 FIPS : CA Altitude : +0017.1
+Name of station : TUKTOYAKTUK FIPS : CA Altitude : +0005.0
+Name of station : ANCHORAGE ELMENDORF AFB FIPS : US Altitude : +0064.9
+Name of station : LADD AAB FIPS : US Altitude : +0148.1
+Name of station : FORT YUKON FIPS : US Altitude : +0138.4
+Name of station : SUMMIT AIRPORT FIPS : US Altitude : +0734.3
+Name of station : BOUNDARY FIPS : US Altitude : +0793.1
+Name of station : CAPE HINCHINBROOK FIPS : US Altitude : +0056.1
+Name of station : CENTRAL NO 2 FIPS : US Altitude : +0284.1
+Name of station : EAGLE AIRPORT FIPS : US Altitude : +0273.7
+Name of station : NENANA MUNICIPAL AP FIPS : US Altitude : +0110.3
+Name of station : NORTH DUTCH ISLAND C FIPS : US Altitude : +0011.9
+Name of station : PORTAGE FIPS : US Altitude : +0011.0
+Name of station : SHEEP MOUNTAIN FIPS : US Altitude : +0835.2
+Name of station : VALDEZ WSO FIPS : US Altitude : +0011.3
+Name of station : YAKATAGA AP FIPS : US Altitude : +0107.9
+Name of station : ANCHORAGE INTL AP FIPS : US Altitude : +0040.2
+Name of station : ELMENDORF 2 AFB FIPS : US Altitude : +0063.1
+Name of station : HUMPHREY POINT BAR A FIPS : US Altitude : +0007.0
+Name of station : CAMDEN BAY FIPS : US Altitude : +0003.0
+Name of station : GERSTLE RIVER FIPS : US Altitude : +0004.9
+Name of station : FAIRBANKS 11 NE FIPS : US Altitude : +0347.5
+Name of station : MCGRATH ARPT FIPS : US Altitude : +0103.0
+Name of station : MINCHUMINA FIPS : US Altitude : +0214.0
+Name of station : SHUNGNAK CAA FIPS : US Altitude : +0042.1
+Name of station : SKWENTNA FIPS : US Altitude : +0045.1
+Name of station : ANIAK AIRPORT FIPS : US Altitude : +0025.9
+Name of station : BETTLES CAA FIPS : US Altitude : +0260.9
+Name of station : FAREWELL FAA AP FIPS : US Altitude : +0458.1
+Name of station : KENAI MUNICIPAL AP FIPS : US Altitude : +0028.0
+Name of station : PUNTILLA LAKE FIPS : US Altitude : +0566.3
+Name of station : TALKEETNA STATE ARPT FIPS : US Altitude : +0108.5
+Name of station : TANANA RALPH M CALHOUN MEM AP FIPS : US Altitude : +0067.1
+Name of station : BETTLES FIELD FIPS : US Altitude : +0196.0
+Name of station : FIVE MILE CAMP FIPS : US Altitude : +0134.1
+Name of station : OLD MAN FIPS : US Altitude : +0011.0
+Name of station : HAYES RIVER FIPS : US Altitude : +0305.1
+Name of station : PORT ALSWORTH 1 SW FIPS : US Altitude : +0097.8
+Name of station : KENAI 29 ENE FIPS : US Altitude : +0086.0
+Name of station : IVOTUK 1 NNE FIPS : US Altitude : +0581.9
+Name of station : DEADHORSE 3 S FIPS : US Altitude : +0009.1
+Name of station : KOTZEBUE RALPH WEIN MEMORIAL FIPS : US Altitude : +0004.9
+Name of station : NOME MUNICIPAL ARPT FIPS : US Altitude : +0006.7
+Name of station : WALES FIPS : US Altitude : +0002.7
+Name of station : CANDLE FIPS : US Altitude : +0007.0
+Name of station : UNALAKLEET FIELD FIPS : US Altitude : +0006.1
+Name of station : CAPE BEAUFORT LIZ A FIPS : US Altitude : +0014.9
+Name of station : POINT LAY LIZ 2 FIPS : US Altitude : +0006.1
+Name of station : RED DOG MINE 3 SSW FIPS : US Altitude : +0287.1
+Name of station : GAMBELL FIPS : US Altitude : +0007.9
+Name of station : HOLMAN ISLAND FIPS : CA Altitude : +0009.1
+Name of station : SACHS HARBOUR FIPS : CA Altitude : +0084.1
+Name of station : CAPE PARRY AIRPORT FIPS : CA Altitude : +0017.0
+Name of station : MCINTYRE POW C FIPS : US Altitude : +0004.9
+Name of station : OLIKTOK POW 2 FIPS : US Altitude : +0004.9
+Name of station : FLAXMAN ISLAND POW 3 FIPS : US Altitude : +0007.0
+Name of station : PRUDHOE BAY FIPS : US Altitude : +0014.0
+Name of station : WAINWRIGHT AIRPORT FIPS : US Altitude : +0009.1
+Name of station : BARROW POINT BARROW FIPS : US Altitude : +0006.1
+Name of station : PEARD BAY LIZ C FIPS : US Altitude : +0028.0
+Name of station : WAINWRIGHT LIZ 3 FIPS : US Altitude : +0027.1
+Name of station : CAPE SIMPSON POW A FIPS : US Altitude : +0003.0
+Name of station : KOGRU RIVER POW B FIPS : US Altitude : +0009.1
+Name of station : LONELY FIPS : US Altitude : +0009.1
+Name of station : BARROW 4 ENE FIPS : US Altitude : +0004.6
+Name of station : ICY CAPE LIZ B FIPS : US Altitude : +0014.9
+Name of station : SIGONELLA FIPS : IT Altitude : +0031.1
+Name of station : CHATEAUROUX FIPS : FR Altitude : +0164.0
+Name of station : TOUL ROSIERE FIPS : FR Altitude : +0288.0
+Name of station : CHAUMONT FIPS : FR Altitude : +0313.0
+Name of station : LAON FIPS : FR Altitude : +0082.9
+Name of station : EVREUX FIPS : FR Altitude : +0141.1
+Name of station : PHALSBOURG FIPS : FR Altitude : +0313.0
+Name of station : DREUX FIPS : FR Altitude : +0182.9
+Name of station : ORLEANS FIPS : FR Altitude : +0128.0
+Name of station : BRIENNE FIPS : FR Altitude : +0120.1
+Name of station : VERDUN FIPS : FR Altitude : +0371.9
+Name of station : SUIPPES RANGE (MET) FIPS : FR Altitude : 
+Name of station : VERONA FIPS : IT Altitude : +0093.0
+Name of station : GABLINGEN FIPS : GM Altitude : +0466.0
+Name of station : LAKENHEATH RAF FIPS : UK Altitude : +0010.1
+Name of station : MILDENHALL FIPS : UK Altitude : +0010.1
+Name of station : MANSTON FIPS : UK Altitude : +0043.9
+Name of station : BENTWATERS FIPS : UK Altitude : +0025.9
+Name of station : STANTON FIPS : UK Altitude : +0061.0
+Name of station : YAP ISLAND WSO AP FIPS : FM Altitude : +0017.1
+Name of station : KOROR WSO FIPS : PS Altitude : +0033.2
+Name of station : WEATHER SERVICE BUILDING FIPS : FM Altitude : +0036.6
+Name of station : CHUUK WSO AP FIPS : FM Altitude : +0002.4
+Name of station : KWAJALEIN MISSLE RAN FIPS : RM Altitude : +0007.9
+Name of station : WEATHER SERVICE OFFICE BUILDI FIPS : RM Altitude : +0003.1
+Name of station : DA NANG FIPS : VM Altitude : +0007.0
+Name of station : KY HA FIPS : VM Altitude : +0018.0
+Name of station : MARBLE MOUNTAIN FIPS : VM Altitude : +0009.1
+Name of station : QUANG TRI FIPS : VM Altitude : +0014.0
+Name of station : VANDERGRIF FIPS : VM Altitude : +0036.9
+Name of station : SANGLEY POINT FIPS : RP Altitude : +0002.1
+Name of station : SAN JOSE FIPS : RP Altitude : +0004.0
+Name of station : LEYTE GULF NF FIPS : RP Altitude : +0004.0
+Name of station : MANILA NF FIPS : RP Altitude : +0004.0
+Name of station : MANILA NF FIPS : RP Altitude : +0032.9
+Name of station : MANILA FIPS : RP Altitude : +0004.0
+Name of station : OLONGAPO FIPS : RP Altitude : +0004.0
+Name of station : CUBI POINT NF FIPS : RP Altitude : +0014.0
+Name of station : GUAM WFO FIPS : GQ Altitude : +0077.4
+Name of station : GUAM MARSHALL ISLAND FIPS : GQ Altitude : +0054.9
+Name of station : SAIPAN MARSHALL ISLA FIPS : CQ Altitude : +0032.0
+Name of station : GUAM OROTE FIPS : GQ Altitude : +0024.1
+Name of station : SAIPAN MARSHALL ISLA FIPS : RM Altitude : +0011.0
+Name of station : TINIAN MARSHALL ISLA FIPS : CQ Altitude : +0075.9
+Name of station : GUAM WFO FIPS : GQ Altitude : +0076.2
+Name of station : WAKE ISLAND FIPS : WQ Altitude : +0003.7
+Name of station : KADENA AB FIPS : JA Altitude : +0043.0
+Name of station : YONABARU RYUKYU ISLA FIPS : JA Altitude : +0009.1
+Name of station : FUTENMA FIPS : US Altitude : +0084.1
+Name of station : HAMBY AAF FIPS : JA Altitude : +0004.9
+Name of station : CHICHI JIMA BONIN IS FIPS : JA Altitude : +0007.9
+Name of station : MARCUS ISLAND NF FIPS : JA Altitude : +0007.0
+Name of station : MINAMI TORI SHIMA MA FIPS : JA Altitude : +0006.1
+Name of station : HUNG CHIA FIPS : CH Altitude : +0027.1
+Name of station : TSINGTAO FIPS : CH Altitude : +0014.0
+Name of station : PUSAN AST - ROK K-9 FIPS : KS Altitude : +0004.9
+Name of station : TAEJON ROK K-5 FIPS : KS Altitude : +0039.9
+Name of station : KWANDAE RI TEAM 840 FIPS : KS Altitude : +0181.1
+Name of station : YONGIL MAN MAG 12 FIPS : KS Altitude : +0020.1
+Name of station : SACHON ROK K-4 FIPS : KS Altitude : +0007.9
+Name of station : CHEJU DO K 39 FIPS : KS Altitude : +0013.1
+Name of station : CHANGGAI GAP ROK K 3 FIPS : KS Altitude : +0021.0
+Name of station : OSAN FIPS : KS Altitude : +0011.9
+Name of station : IRUMA FIPS : JA Altitude : +0093.9
+Name of station : FUSSA FIPS : JA Altitude : +0139.0
+Name of station : BRADY FIPS : JA Altitude : +0014.0
+Name of station : YUKUHASHI FIPS : JA Altitude : +0011.9
+Name of station : NIIGATA FIPS : JA Altitude : +0004.0
+Name of station : OPPAMA FIPS : JA Altitude : +0007.9
+Name of station : KISARAZU FIPS : JA Altitude : +0006.1
+Name of station : IWAKUNI FIPS : JA Altitude : +0003.0
+Name of station : YOKOSUKA FIPS : JA Altitude : +0053.0
+Name of station : IWAKUNI FIPS : JA Altitude : +0003.0
+Name of station : KASTNER AAF FIPS : JA Altitude : +0107.0
+Name of station : PEKING FIPS : CH Altitude : +0050.9
+Name of station : KHABAROVSK FIPS : RS Altitude : +0053.0
+Name of station : SHEMYA ISLAND FIPS : US Altitude : +0039.9
+Name of station : ATTU NS FIPS : US Altitude : +0028.0
+Name of station : SHEMYA ISLAND FIPS : US Altitude : +0034.1
+Name of station : SHEMYA AFB FIPS : US Altitude : +0029.6
+Name of station : ARTESIA 2 WNW FIPS : US Altitude : +1067.1
+Name of station : GRANTS 2 S FIPS : US Altitude : +1963.8
+Name of station : BLUFF 32 NW FIPS : US Altitude : +1959.3
+Name of station : BUENA VISTA 2 SSE FIPS : US Altitude : +2418.0
+Name of station : AMADO 23 W FIPS : US Altitude : +1005.8
+Name of station : COLORADO SPRINGS 23 NW FIPS : US Altitude : +2399.4
+Name of station : CLOVIS 7 N FIPS : US Altitude : +1315.5
+Name of station : RAMAH 9 SE FIPS : US Altitude : +2183.6
+Name of station : MONTICELLO 24 NW FIPS : US Altitude : +1531.6
+Name of station : TSAILE 1 SSW FIPS : US Altitude : +2155.2
+Name of station : BLANDING 26 SSW FIPS : US Altitude : +1338.1
+Name of station : CEDAR CITY 18 SSE FIPS : US Altitude : +1553.3
+Name of station : MEXICAN HAT 10 NW FIPS : US Altitude : +1939.8
+Name of station : HAGERMAN 10 ESE FIPS : US Altitude : +1082.7
+Name of station : VAUGHN 36 SSE FIPS : US Altitude : +1534.4
+Name of station : AZTEC 43 E FIPS : US Altitude : +2140.9
+Name of station : COLORADO CITY MUNI AIRPORT FIPS : US Altitude : +1485.6
+Name of station : TUCSON 11 W FIPS : US Altitude : +0833.0
+Name of station : ELGIN 5 S FIPS : US Altitude : +1466.4
+Name of station : MERCURY 3 SSW FIPS : US Altitude : +1001.0
+Name of station : BAKER 5 W FIPS : US Altitude : +2016.9
+Name of station : STOVEPIPE WELLS 1 SW FIPS : US Altitude : +0025.6
+Name of station : TORREY 7 E FIPS : US Altitude : +1891.0
+Name of station : YOSEMITE VILLAGE 12 W FIPS : US Altitude : +2017.8
+Name of station : FALLBROOK 5 NE FIPS : US Altitude : +0347.5
+Name of station : SANTA BARBARA 11 W FIPS : US Altitude : +0005.5
+Name of station : YUMA 27 ENE FIPS : US Altitude : +0189.0
+Name of station : WILLIAMS 35 NNW FIPS : US Altitude : +1825.8
+Name of station : PHOENIX 7 S FIPS : US Altitude : +0427.9
+Name of station : CAMERON 25 SSE FIPS : US Altitude : +1465.2
+Name of station : CAMP VERDE 3 N FIPS : US Altitude : +1046.7
+Name of station : COOLIDGE 5 W FIPS : US Altitude : +0434.3
+Name of station : SOCORRO 17 WSW FIPS : US Altitude : +3196.1
+Name of station : PAGE 9 WSW FIPS : US Altitude : +0991.8
+Name of station : DELTA 4 NE FIPS : US Altitude : +1451.2
+Name of station : ST. GEORGE 15 NE FIPS : US Altitude : +1041.5
+Name of station : MIDWAY 3 NE FIPS : US Altitude : +1752.0
+Name of station : AJO 29 S FIPS : US Altitude : +0506.3
+Name of station : KAYENTA 16 WSW FIPS : US Altitude : +2217.1
+Name of station : HEBER 3 SE FIPS : US Altitude : +2019.3
+Name of station : MILFORD 42 WNW FIPS : US Altitude : +1601.7
+Name of station : LAKE HAVASU CITY 19 SE FIPS : US Altitude : +0126.8
+Name of station : NAGEEZI 18 SSW FIPS : US Altitude : +1965.7
+Name of station : GILA BEND 3 ENE FIPS : US Altitude : +0237.7
+Name of station : ANDALUSIA-OPP  MUNICIPAL AIRP FIPS : US Altitude : +0094.5
+Name of station : NAVAL AUXILIARY LANDING FD FIPS : US Altitude : +0033.8
+Name of station : ORANGEBURG MUNICIPAL AP FIPS : US Altitude : +0060.0
+Name of station : COLUMBIA OWENS DOWNTOWN AP FIPS : US Altitude : +0064.6
+Name of station : ASHEVILLE 8 SSW FIPS : US Altitude : +0655.6
+Name of station : ASHEVILLE 13 S FIPS : US Altitude : +0641.0
+Name of station : KNOXVILLE MCGHEE-TYSON AP FIPS : US Altitude : +0649.8
+Name of station : KNOXVILLE ISLAND AP FIPS : US Altitude : +0043.0
+Name of station : HERLONG AIRPORT FIPS : US Altitude : +0026.5
+Name of station : MOUNT IDA FIPS : US Altitude : +0214.0
+Name of station : STILLWATER 2 W FIPS : US Altitude : +0271.3
+Name of station : STILLWATER 5 WNW FIPS : US Altitude : +0270.7
+Name of station : LAFAYETTE 13 SE FIPS : US Altitude : +0010.7
+Name of station : MONROE 26 N FIPS : US Altitude : +0026.8
+Name of station : PALESTINE 6 WNW FIPS : US Altitude : +0116.7
+Name of station : MANHATTAN 6 SSW FIPS : US Altitude : +0346.6
+Name of station : PUERTO MONTT B FIPS : CI Altitude : +0011.0
+Name of station : DURHAM 2 N FIPS : US Altitude : +0036.3
+Name of station : DURHAM 2 SSW FIPS : US Altitude : +0019.2
+Name of station : KINGSTON 1 NW FIPS : US Altitude : +0035.1
+Name of station : KINGSTON 1 W FIPS : US Altitude : +0032.3
+Name of station : CHAMPAIGN 9 SW FIPS : US Altitude : +0213.4
+Name of station : CHATHAM 1 SE FIPS : US Altitude : +0266.7
+Name of station : SHABBONA 5 NNE FIPS : US Altitude : +0262.4
+Name of station : COSHOCTON 8 NNE FIPS : US Altitude : +0341.4
+Name of station : GAYLORD 9 SSW FIPS : US Altitude : +0445.3
+Name of station : DES MOINES 17 E FIPS : US Altitude : +0280.7
+Name of station : NECEDAH 5 WNW FIPS : US Altitude : +0284.4
+Name of station : SANDSTONE 6 W FIPS : US Altitude : +0344.4
+Name of station : ABERDEEN 35 WNW FIPS : US Altitude : +0596.5
+Name of station : JAMESTOWN 38 WSW FIPS : US Altitude : +0585.2
+Name of station : GLENNALLEN 64 N FIPS : US Altitude : +0813.5
+Name of station : ELLSWORTH IGY FIPS : AY Altitude : +0043.0
+Name of station : EIGHTS FIPS : AY Altitude : +0420.9
+Name of station : CANTON ISLAND FIPS : KR Altitude : +0003.0
+Name of station : PAGO PAGO WSO AP FIPS : AQ Altitude : +0003.0
+Name of station : EVERETT-STEWART AIRPORT FIPS : US Altitude : +0103.9
+Name of station : BLACKVILLE 3 W FIPS : US Altitude : +0096.6
+Name of station : NEWTON 8 W FIPS : US Altitude : +0053.6
+Name of station : NEWTON 11 SW FIPS : US Altitude : +0047.6
+Name of station : NEWTON 5 ENE FIPS : US Altitude : +0114.0
+Name of station : VERSAILLES 3 NNW FIPS : US Altitude : +0271.6
+Name of station : FOLSOM FIELD AP FIPS : US Altitude : +0293.5
+Name of station : BOWLING GREEN 21 NNE FIPS : US Altitude : +0240.8
+Name of station : WATKINSVILLE 5 SSE FIPS : US Altitude : +0225.9
+Name of station : CROSSVILLE 7 NW FIPS : US Altitude : +0583.1
+Name of station : BRUNSWICK 23 S FIPS : US Altitude : +0007.6
+Name of station : GADSDEN 19 N FIPS : US Altitude : +0351.1
+Name of station : SELMA 13 WNW FIPS : US Altitude : +0058.8
+Name of station : VALLEY HEAD 1 SSW FIPS : US Altitude : +0310.9
+Name of station : GUNTERSVILLE 2 SW FIPS : US Altitude : +0189.0
+Name of station : CULLMAN 3 ENE FIPS : US Altitude : +0243.8
+Name of station : COURTLAND 2 WSW FIPS : US Altitude : +0175.3
+Name of station : FAIRHOPE 3 NE FIPS : US Altitude : +0029.0
+Name of station : TRI-COUNTY AIRPORT FIPS : US Altitude : +0025.9
+Name of station : WHITEHOUSE NAVAL OUTLYING FIE FIPS : US Altitude : +0030.2
+Name of station : CLANTON 2 NE FIPS : US Altitude : +0178.0
+Name of station : GAINESVILLE 2 NE FIPS : US Altitude : +0032.6
+Name of station : GREENSBORO 2 WNW FIPS : US Altitude : +0085.3
+Name of station : MUSCLE SHOALS 2 N FIPS : US Altitude : +0161.5
+Name of station : RUSSELLVILLE 4 SSE FIPS : US Altitude : +0219.5
+Name of station : SCOTTSBORO 2 NE FIPS : US Altitude : +0193.9
+Name of station : SELMA 6 SSE FIPS : US Altitude : +0047.9
+Name of station : BEDFORD 5 WNW FIPS : US Altitude : +0231.7
+Name of station : BREWTON 3 NNE FIPS : US Altitude : +0051.8
+Name of station : MILLBROOK 3 W FIPS : US Altitude : +0125.9
+Name of station : CRN ON EGBERT 1 W FIPS : CA Altitude : +0246.0
+Name of station : ITHACA 13 E FIPS : US Altitude : +0374.3
+Name of station : LITTLE AMERICA FIPS : AY Altitude : +0032.0
+Name of station : BYRD STATION FIPS : AY Altitude : +1542.9
+Name of station : BEARDMORE CAMP FIPS : AY Altitude : +0230.1
+Name of station : BROCKTON STATION FIPS : AY Altitude : +0100.9
+Name of station : DIEGO GARCIA NAF FIPS : IO Altitude : +0002.7
+Name of station : NORTHPORT 2 S FIPS : US Altitude : +0045.7
+Name of station : HIGHLAND HOME 2 S FIPS : US Altitude : +0187.2
+Name of station : TALLADEGA 10 NNE FIPS : US Altitude : +0160.0
+Name of station : NORTHWEST FLORIDA BEACHES INT FIPS : US Altitude : +0021.0
+Name of station : PLATEAU STATION FIPS : AY Altitude : +3504.9
+Name of station : BIAK ISLAND NF FIPS : ID Altitude : +0000.9
+Name of station : EMIRAU NF FIPS : PP Altitude : +0000.9
+Name of station : MANUS ISLAND NF FIPS : PP Altitude : +0043.9
+Name of station : FUNAFUTI NF FIPS : TV Altitude : +0002.1
+Name of station : NORTHWEST CAPE FIPS : AS Altitude : +0038.1
+Name of station : WILKES FIPS : AY Altitude : +0011.9
+Name of station : WILKES ICE CAP STATI FIPS : AY Altitude : 
+Name of station : MCMURDO SOUND NAF FIPS : AY Altitude : +0024.1
+Name of station : MARBLE POINT FIPS : AY Altitude : +0047.9
+Name of station : HUT POINT FIPS : AY Altitude : +0025.9
+Name of station : ADARE HALLETT FIPS : AY Altitude : +0004.9
+Name of station : LIV FIPS : AY Altitude : +0182.9
+Name of station : BEARDMORE CAMP FIPS : AY Altitude : +0059.1
+Name of station : LITTLE JEANA STATION FIPS : AY Altitude : +0053.9
+Name of station : FLETCHER ICE ISLAND T-3 (ARCT FIPS : US Altitude : +0006.0
+Name of station : ICE SKATE B FIPS : IC Altitude : 
+Name of station : LIFEGUARD OFFICE FIPS : US Altitude : +0002.4
+Name of station : TITUSVILLE 7 E FIPS : US Altitude : +0000.9
+Name of station : EVERGLADES CITY 5 NE FIPS : US Altitude : +0001.2
+Name of station : SEBRING 23 SSE FIPS : US Altitude : +0045.7
+Name of station : DOUGLAS MUNICIPAL AP FIPS : US Altitude : +1250.0
+Name of station : DENVER NAS FIPS : US Altitude : +1695.9
+Name of station : MARFA FIPS : US Altitude : +1478.0
+Name of station : COLORADO SPRINGS PETERSON FIE FIPS : US Altitude : +1880.6
+Name of station : LAS CRUCES MUNICIPAL AP FIPS : US Altitude : +1358.2
+Name of station : DALHART MUNICIPAL AP FIPS : US Altitude : +1217.4
+Name of station : ZUNI FIPS : US Altitude : +1923.3
+Name of station : TRUTH OR CONSEQUENCES MUNI AP FIPS : US Altitude : +1480.7
+Name of station : GRANTS MILAN MUNICIPAL AP FIPS : US Altitude : +1987.3
+Name of station : SILVER CITY GRANT CO FIPS : US Altitude : +1659.9
+Name of station : NWS AWRS FIPS : US Altitude : +2393.0
+Name of station : EL TORO MCAS FIPS : US Altitude : +0116.7
+Name of station : FALLON NAAS FIPS : US Altitude : +1199.1
+Name of station : CHINA LAKE NAF FIPS : US Altitude : +0695.9
+Name of station : LITCHFIELD PARK NAF FIPS : US Altitude : +0292.0
+Name of station : LOS ALAMITOS FIPS : US Altitude : +0011.0
+Name of station : SAN DIEGO MIRAMAR NAS FIPS : US Altitude : +0145.7
+Name of station : MOJAVE MCAS FIPS : US Altitude : +0841.9
+Name of station : POINT MUGU NF FIPS : US Altitude : +0003.7
+Name of station : SAN PEDRO NAS FIPS : US Altitude : +0013.1
+Name of station : MARINE CORPS AIR STATION FIPS : US Altitude : +0017.1
+Name of station : IMPERIAL BEACH REAM FIELD NAS FIPS : US Altitude : +0007.0
+Name of station : SAN NICHOLAS ISLAND FIPS : US Altitude : +0153.6
+Name of station : SALTON SEA NAAF FIPS : US Altitude : -0068.9
+Name of station : THERMAL NAF FIPS : US Altitude : -0036.0
+Name of station : TWENTY NINE PALMS FIPS : US Altitude : +0625.1
+Name of station : FALLON CAA AP FIPS : US Altitude : +1200.0
+Name of station : SANTA BARBARA MCAS FIPS : US Altitude : +0004.0
+Name of station : CEDAR CITY MUNICIPAL AP FIPS : US Altitude : +1712.4
+Name of station : GREEN RIVER FIPS : US Altitude : +1241.2
+Name of station : LOS ANGELES DOWNTOWN USC CAMP FIPS : US Altitude : +0056.4
+Name of station : MOUNT WILSON FIPS : US Altitude : +1738.9
+Name of station : PAYSON FIPS : US Altitude : +1498.1
+Name of station : SANTA ANA FIPS : US Altitude : +0016.8
+Name of station : FRESNO YOSEMITE INTL AP FIPS : US Altitude : +0099.7
+Name of station : ST GEORGE INTERM FLD FIPS : US Altitude : +0882.7
+Name of station : PASO ROBLES MUNICIPAL ARPT FIPS : US Altitude : +0249.0
+Name of station : OAKLAND NAS FIPS : US Altitude : +0002.1
+Name of station : POINT ARGUELLO AFWB FIPS : US Altitude : +0111.9
+Name of station : BEALE AFB FIPS : US Altitude : +0034.4
+Name of station : FRITZSCHE AAF FIPS : US Altitude : +0043.9
+Name of station : MERCED 23 WSW FIPS : US Altitude : +0023.8
+Name of station : BODEGA 6 WSW FIPS : US Altitude : +0019.2
+Name of station : NORTH MYRTLE BEACH AIRPORT FIPS : US Altitude : +0010.1
+Name of station : NEW BERN CRAVEN CO REGL AP FIPS : US Altitude : +0007.3
+Name of station : SALISBURY WICOMICO CO AP FIPS : US Altitude : +0018.3
+Name of station : BALTIMORE BLT-WASHNG FIPS : US Altitude : +0047.2
+Name of station : KINSTON STALLINGS AFB FIPS : US Altitude : +0028.7
+Name of station : NEW RIVER MCAS FIPS : US Altitude : +0007.6
+Name of station : HATTERAS BILLY MITCHELL AP FIPS : US Altitude : +0003.4
+Name of station : ATLANTIC CITY INTL A FIPS : US Altitude : +0020.4
+Name of station : NORFOLK FLEET WF NAS FIPS : US Altitude : +0010.1
+Name of station : NEW YORK SHOALS AFS FIPS : US Altitude : +0025.9
+Name of station : STERLING FIPS : US Altitude : +0085.0
+Name of station : FORT EUSTIS FELKER AAF FIPS : US Altitude : +0003.7
+Name of station : CHARLOTTESVILLE FAA FIPS : US Altitude : +0196.3
+Name of station : FORT BRAGG SIMMONS AAF FIPS : US Altitude : +0073.8
+Name of station : WASHINGTON DULLES INTERNATION FIPS : US Altitude : +0098.5
+Name of station : WALLOPS ISLAND UAU FIPS : US Altitude : +0014.6
+Name of station : BOGUE FIELD MCAF FIPS : US Altitude : +0006.7
+Name of station : CHERRY POINT/MCAS ASOS 2 FIPS : US Altitude : +0009.1
+Name of station : ROME R B RUSSELL AP FIPS : US Altitude : +0196.3
+Name of station : SMITHVILLE CAA AP FIPS : US Altitude : +0328.9
+Name of station : SPARTANBURG FIPS : US Altitude : +0244.1
+Name of station : TALLAHASSEE DALE MABRY FIELD FIPS : US Altitude : +0020.7
+Name of station : TUSCALOOSA MUNICIPAL AP FIPS : US Altitude : +0056.7
+Name of station : WINSTON-SALEM REYNOLDS AP FIPS : US Altitude : +0295.7
+Name of station : BOWLING GREEN WARREN CO AP FIPS : US Altitude : +0163.7
+Name of station : CARBONDALE SOUTHERN ILLINOIS FIPS : US Altitude : +0126.8
+Name of station : CINCINNATI GREATER CINCINNATI FIPS : US Altitude : +0269.1
+Name of station : DAYTON MUNICIPAL ARPT FIPS : US Altitude : +0305.7
+Name of station : EFFINGHAM COUNTY MEMORIAL ARP FIPS : US Altitude : +0178.9
+Name of station : EVANSVILLE DRESS REGIONAL ARP FIPS : US Altitude : +0118.3
+Name of station : CHESAPEAKE HUNTINGTON AP FIPS : US Altitude : +0170.7
+Name of station : INDIANAPOLIS WEIR COOK MUNICI FIPS : US Altitude : +0246.3
+Name of station : LEXINGTON BLUEGRASS FIELD FIPS : US Altitude : +0301.4
+Name of station : LOUISVILLE STANDIFORD FIELD FIPS : US Altitude : +0148.7
+Name of station : SPRINGFIELD CAPITAL AP FIPS : US Altitude : +0186.8
+Name of station : TERRE HAUTE HULMAN FIELD FIPS : US Altitude : +0017.5
+Name of station : ZANESVILLE MUNICIPAL AP FIPS : US Altitude : +0274.9
+Name of station : ADVANCE 1 S FIPS : US Altitude : +0109.7
+Name of station : BARIN FIELD NAAS FIPS : US Altitude : +0021.9
+Name of station : PENSACOLA CORRY FLD NAAS FIPS : US Altitude : +0011.0
+Name of station : PENSACOLA CHEVALIER FLD NAS FIPS : US Altitude : +0021.0
+Name of station : ATLANTA NAS FIPS : US Altitude : +0302.1
+Name of station : BEAUFORT NAS FIPS : US Altitude : +0011.6
+Name of station : CECIL FIELD NAS FIPS : US Altitude : +0025.3
+Name of station : COLUMBIA CONGAREE FLD MCAF FIPS : US Altitude : +0074.1
+Name of station : COLUMBUS NAS FIPS : US Altitude : +0249.0
+Name of station : BRUNSWICK GLYNN CO A FIPS : US Altitude : +0009.1
+Name of station : JACKSONVILLE NAS FIPS : US Altitude : +0006.7
+Name of station : MEMPHIS NAS FIPS : US Altitude : +0097.5
+Name of station : ST SIMONS ISLAND NAS FIPS : US Altitude : +0003.0
+Name of station : WHITING FIELD NAS FIPS : US Altitude : +0061.0
+Name of station : COLUMBUS MUSCOGEE COUNTY ARPT FIPS : US Altitude : +0120.1
+Name of station : DOTHAN MUNICIPAL AP FIPS : US Altitude : +0097.8
+Name of station : PARRIS ISLAND MCAS FIPS : US Altitude : +0010.1
+Name of station : VALDOSTA WB AIRPORT FIPS : US Altitude : +0060.4
+Name of station : ANDERSON COUNTY AP FIPS : US Altitude : +0235.6
+Name of station : DALLAS HENSLEY FIELD NAS FIPS : US Altitude : +0150.9
+Name of station : DURANT FIPS : US Altitude : +0213.0
+Name of station : FORT WORTH EAGLE MT LK MCAS FIPS : US Altitude : +0232.0
+Name of station : FORT WORTH MEACHAM FIPS : US Altitude : +0215.2
+Name of station : HUTCHINSON NAS FIPS : US Altitude : +0479.1
+Name of station : NEW ORLEANS NAS FIPS : US Altitude : +0004.0
+Name of station : NEWPORT MCAF FIPS : US Altitude : +0074.1
+Name of station : NORMAN NAS FIPS : US Altitude : +0359.1
+Name of station : OLATHE JOHNSON CO INDUSTRIAL FIPS : US Altitude : +0331.3
+Name of station : ST LOUIS LAMBERT FIPS : US Altitude : +0166.1
+Name of station : ALEXANDRIA INTL AIRPORT FIPS : US Altitude : +0024.4
+Name of station : MCCOMB PIKE COUNTY AP FIPS : US Altitude : +0128.6
+Name of station : GILLESPIE COUNTY AIRPORT FIPS : US Altitude : +0516.6
+Name of station : PALESTINE FIPS : US Altitude : +0128.9
+Name of station : HOBART MUNICIPAL AP FIPS : US Altitude : +0478.5
+Name of station : LUFKIN ANGELINA CO FIPS : US Altitude : +0096.3
+Name of station : PINE BLUFF FIPS : US Altitude : +0065.2
+Name of station : QUINCY MUNI BALDWIN FLD FIPS : US Altitude : +0233.5
+Name of station : HILL CITY MUNICIPAL AP FIPS : US Altitude : +0677.0
+Name of station : WALNUT RIDGE MUNICIPAL ARPT FIPS : US Altitude : +0083.2
+Name of station : EL DORADO GOODWIN FIELD FIPS : US Altitude : +0086.9
+Name of station : FAYETTEVILLE DRAKE FIELD FIPS : US Altitude : +0383.7
+Name of station : BUTLER FAA AP FIPS : US Altitude : +0264.9
+Name of station : FARMINGTON FIPS : US Altitude : +0288.6
+Name of station : RUSSELL MUNICIPAL AP FIPS : US Altitude : +0567.8
+Name of station : VICKSBURG FIPS : US Altitude : +0003.2
+Name of station : GLASGOW INTL ARPT FIPS : US Altitude : +0699.2
+Name of station : ST MARIE FIPS : US Altitude : +0838.2
+Name of station : HAVRE CITY-COUNTY AP FIPS : US Altitude : +0792.2
+Name of station : WILLISTON SLOULIN FIELD INTL FIPS : US Altitude : +0580.6
+Name of station : GARRISON FIPS : US Altitude : +0582.2
+Name of station : WOLF POINT 34 NE FIPS : US Altitude : +0805.6
+Name of station : WOLF POINT 29 ENE FIPS : US Altitude : +0635.5
+Name of station : NUNN 7 NNE FIPS : US Altitude : +1642.9
+Name of station : BOULDER 14 W FIPS : US Altitude : +2995.6
+Name of station : HARRISON 20 SSE FIPS : US Altitude : +1343.0
+Name of station : LANDER 11 SSE FIPS : US Altitude : +1759.6
+Name of station : WHITMAN 5 ENE FIPS : US Altitude : +1140.0
+Name of station : MEDORA 7 E FIPS : US Altitude : +0844.6
+Name of station : BUFFALO 13 ESE FIPS : US Altitude : +0878.7
+Name of station : DINOSAUR 2 E FIPS : US Altitude : +1847.7
+Name of station : NORTHGATE 5 ESE FIPS : US Altitude : +0561.4
+Name of station : PIERRE 24 S FIPS : US Altitude : +0647.4
+Name of station : SUNDANCE 8 NNW FIPS : US Altitude : +1765.4
+Name of station : AKRON A 4 E FIPS : US Altitude : +1384.4
+Name of station : MEEKER 15 W FIPS : US Altitude : +1756.0
+Name of station : ROME STATE AIRPORT FIPS : US Altitude : +1234.4
+Name of station : IDAHO FALLS 46 W FIPS : US Altitude : +1505.1
+Name of station : IDAHO FALLS 42 NW WB FIPS : US Altitude : +1460.9
+Name of station : SPOKANE FELTS FIELD FIPS : US Altitude : +0599.8
+Name of station : GRNT CO RGNL/OGLVIE FD APT FIPS : US Altitude : +1124.7
+Name of station : ASTORIA CLATSOP COUNTY ARPT FIPS : US Altitude : +0006.7
+Name of station : HOQUIAM AP FIPS : US Altitude : +0004.6
+Name of station : TOFINO FIPS : CA Altitude : +0024.1
+Name of station : KLAMATH FALLS KINGSLEY FLD AF FIPS : US Altitude : +1247.2
+Name of station : QUILLAYUTE AIRPORT FIPS : US Altitude : +0062.5
+Name of station : TACOMA NARROWS AP FIPS : US Altitude : +0096.0
+Name of station : WSFO SEATTLE SAND POINT FIPS : US Altitude : +0018.3
+Name of station : COUPEVILLE/NOLF FIPS : US Altitude : +0060.7
+Name of station : OLCO LANDING AREA SEAPLANE BA FIPS : US Altitude : +0304.8
+Name of station : OLD TOWN 2 W FIPS : US Altitude : +0038.7
+Name of station : LIMESTONE 4 NNW FIPS : US Altitude : +0224.6
+Name of station : BERLIN MUNICIPAL AP FIPS : US Altitude : +0353.0
+Name of station : BRIDGEPORT MUNICIPAL ARPT FIPS : US Altitude : +0005.2
+Name of station : DANSVILLE MUNI AP FIPS : US Altitude : +0201.8
+Name of station : MONTPELIER AP FIPS : US Altitude : +0341.7
+Name of station : MASSENA AP FIPS : US Altitude : +0065.2
+Name of station : NEW YORK CENTRAL PARK ARSNL B FIPS : US Altitude : +0047.5
+Name of station : PHILADELPHIA NE PHILADELPHIA FIPS : US Altitude : +0036.3
+Name of station : PORTSMOUTH FIPS : US Altitude : +0029.0
+Name of station : TETERBORO AIRPORT FIPS : US Altitude : +0002.1
+Name of station : WHITE PLAINS WESTCHESTER CO A FIPS : US Altitude : +0121.0
+Name of station : WORCESTER MUNICIPAL ARPT FIPS : US Altitude : +0310.0
+Name of station : LEBANON AWO FIPS : US Altitude : +0173.7
+Name of station : NEW HAVEN FIPS : US Altitude : +0022.9
+Name of station : NEW YORK FORT TOTTEN FIPS : US Altitude : +0006.7
+Name of station : WATERTOWN AP FIPS : US Altitude : +0101.5
+Name of station : MONTREAL DORVAL INTL AP FIPS : CA Altitude : +0029.9
+Name of station : UTICA ONEIDA COUNTY AP FIPS : US Altitude : +0226.8
+Name of station : HOUGHTON LAKE ROSCOMMON CO AR FIPS : US Altitude : +0353.6
+Name of station : ROCKFORD GREATER ROCKFORD AP FIPS : US Altitude : +0226.5
+Name of station : KINCHELOE AFB FIPS : US Altitude : +0245.1
+Name of station : TOLEDO EXPRESS AIRPORT FIPS : US Altitude : +0210.9
+Name of station : CHICAGO OHARE INTL AP FIPS : US Altitude : +0205.4
+Name of station : DETROIT METRO AP FIPS : US Altitude : +0202.4
+Name of station : ALPENA PHELPS COLLINS FIELD FIPS : US Altitude : +0211.2
+Name of station : GRAND RAPIDS KENT COUNTY ARPT FIPS : US Altitude : +0244.8
+Name of station : CHICAGO MEIGS FIELD FIPS : US Altitude : +0180.1
+Name of station : FRANKLIN FIPS : US Altitude : +0469.1
+Name of station : MILWAUKEE TIMMERMAN FIPS : US Altitude : +0227.1
+Name of station : DUBUQUE MUNICIPAL AP FIPS : US Altitude : +0329.2
+Name of station : WATERLOO MUNICIPAL AP FIPS : US Altitude : +0267.6
+Name of station : GRAND FORKS AF FIPS : US Altitude : +0277.7
+Name of station : HIBBING CHISHOLM-HIBBING AP FIPS : US Altitude : +0413.6
+Name of station : LINCOLN 8 ENE FIPS : US Altitude : +0362.4
+Name of station : LINCOLN 11 SW FIPS : US Altitude : +0418.2
+Name of station : TOK 70 SE FIPS : US Altitude : +0609.6
+Name of station : RUBY 44 ESE FIPS : US Altitude : +0078.9
+Name of station : SELAWIK 28 E FIPS : US Altitude : +0006.7
+Name of station : DENALI 27 N FIPS : US Altitude : +0678.2
+Name of station :  FIPS :  Altitude : 
